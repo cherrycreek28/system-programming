@@ -1,0 +1,5 @@
+5000
+5.000000
+39.000000
+There was not enough operators in the calculation
+There was no value for an operation in the calculation
