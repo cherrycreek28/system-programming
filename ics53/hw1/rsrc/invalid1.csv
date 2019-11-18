@@ -1,0 +1,1187 @@
+id,type,item name,price,quantity,vendor
+2872000,chemicals,Acetic Acid - 2.2 M,38.0,361,K+R Industries
+2870000,electronics,6-gate AND Gate,32.78,343,K+R Industries
+2872001,chemicals,Sulfurous Acid - 9.0 M,33.25,5,Gosling Goods
+2872002,chemicals,Sodium Hydroxide - 0.3 M,5.85,241,Hejlsberg Industries
+2872003,chemicals,Sulfuric Acid - 7.2 M,29.42,15,Hejlsberg Industries
+2872004,chemicals,Potassium Chloride - 1.8 M,20.46,177,K+R Industries
+2872005,chemicals,Potassium Chloride - 8.9 M,26.01,17,Hejlsberg Industries
+2872006,chemicals,Hydrochloric Acid - 4.5 M,30.22,45,Stroustrup Manufacturing
+2872007,chemicals,Sulfuric Acid - 7.8 M,30.69,76,Newman Niceties
+2872008,chemicals,Potassium Chloride - 6.1 M,27.56,145,Hejlsberg Industries
+2872009,chemicals,Potassium Chloride - 7.3 M,14.48,373,Stroustrup Manufacturing
+2872010,chemicals,Acetic Acid - 12.3 M,5.57,231,Gosling Goods
+2872011,chemicals,Sulfurous Acid - 3.5 M,10.47,223,Stroustrup Manufacturing
+2870001,electronics,4-gate AND Gate,27.72,263,Gosling Goods
+2872012,chemicals,Sodium Hydroxide - 4.5 M,23.05,95,Gosling Goods
+2870002,electronics,8-gate NOT Gate,36.17,149,Van Rossum Recycling
+2872013,chemicals,Potassium Chloride - 5.7 M,25.58,83,Van Rossum Recycling
+2872014,chemicals,Potassium Chloride - 0.2 M,13.77,341,Hejlsberg Industries
+2872015,chemicals,Sodium Hydroxide - 3.5 M,4.74,70,Van Rossum Recycling
+2872016,chemicals,Sodium Hydroxide - 7.2 M,26.41,212,Stroustrup Manufacturing
+2872017,chemicals,Acetic Acid - 6.8 M,29.54,127,K+R Industries
+2872018,chemicals,Sodium Hydroxide - 2.4 M,11.54,334,Gosling Goods
+2872019,chemicals,Acetic Acid - 14.2 M,25.45,2,Hejlsberg Industries
+2872020,chemicals,Hydrochloric Acid - 5.0 M,37.34,301,Gosling Goods
+2870003,electronics,5-gate XOR Gate,1.05,381,Van Rossum Recycling
+2872021,chemicals,Hydrochloric Acid - 9.6 M,16.18,120,Gosling Goods
+2872022,chemicals,Hydrochloric Acid - 9.7 M,0.35,306,Newman Niceties
+2872023,chemicals,Hydrochloric Acid - 14.0 M,2.48,138,Stroustrup Manufacturing
+2872024,chemicals,Sodium Hydroxide - 5.7 M,2.95,16,Van Rossum Recycling
+2872025,chemicals,Acetic Acid - 5.5 M,12.72,104,Van Rossum Recycling
+2872026,chemicals,Hydrochloric Acid - 7.3 M,11.15,297,Gosling Goods
+2870004,electronics,5-gate XOR Gate,32.66,398,Stroustrup Manufacturing
+2872027,chemicals,Sulfuric Acid - 6.6 M,5.97,336,Stroustrup Manufacturing
+2872028,chemicals,Sulfuric Acid - 8.2 M,23.36,219,Newman Niceties
+2872029,chemicals,Potassium Chloride - 13.3 M,9.48,75,Hejlsberg Industries
+2872030,chemicals,Potassium Chloride - 12.2 M,18.92,180,Van Rossum Recycling
+2872031,chemicals,Sulfuric Acid - 9.4 M,9.09,140,Stroustrup Manufacturing
+2872032,chemicals,Sulfurous Acid - 9.0 M,39.31,178,Hejlsberg Industries
+2872033,chemicals,Acetic Acid - 0.3 M,37.64,241,Newman Niceties
+2872034,chemicals,Hydrochloric Acid - 0.2 M,36.3,357,Hejlsberg Industries
+2872035,chemicals,Hydrochloric Acid - 2.4 M,34.8,77,Van Rossum Recycling
+2872036,chemicals,Sulfuric Acid - 2.8 M,33.75,197,Newman Niceties
+2872037,chemicals,Potassium Chloride - 9.9 M,9.37,79,Hejlsberg Industries
+2872038,chemicals,Sodium Hydroxide - 13.7 M,8.35,316,Gosling Goods
+2872039,chemicals,Potassium Chloride - 1.0 M,17.14,300,K+R Industries
+2872040,chemicals,Potassium Chloride - 2.1 M,32.49,381,K+R Industries
+2872041,chemicals,Sodium Hydroxide - 12.9 M,21.66,35,Stroustrup Manufacturing
+2872042,chemicals,Acetic Acid - 11.4 M,38.43,47,Hejlsberg Industries
+2872043,chemicals,Sodium Hydroxide - 9.9 M,19.12,85,K+R Industries
+2872044,chemicals,Sulfuric Acid - 14.5 M,13.18,23,Gosling Goods
+2872045,chemicals,Sodium Hydroxide - 8.3 M,27.01,285,Stroustrup Manufacturing
+2872046,chemicals,Sulfuric Acid - 3.2 M,39.65,86,Newman Niceties
+2872047,chemicals,Potassium Chloride - 2.0 M,23.75,308,K+R Industries
+2872048,chemicals,Acetic Acid - 8.4 M,0.6,300,Stroustrup Manufacturing
+2872049,chemicals,Hydrochloric Acid - 5.0 M,29.2,273,Newman Niceties
+2872050,chemicals,Hydrochloric Acid - 9.3 M,1.27,80,Stroustrup Manufacturing
+2872051,chemicals,Sulfuric Acid - 9.8 M,27.12,296,Stroustrup Manufacturing
+2872052,chemicals,Acetic Acid - 2.0 M,15.63,397,Hejlsberg Industries
+2872053,chemicals,Sodium Hydroxide - 8.1 M,14.16,238,Stroustrup Manufacturing
+2872054,chemicals,Potassium Chloride - 2.3 M,11.25,313,Van Rossum Recycling
+2872055,chemicals,Hydrochloric Acid - 10.4 M,33.01,237,Newman Niceties
+2872056,chemicals,Potassium Chloride - 8.8 M,21.44,318,K+R Industries
+2872057,chemicals,Potassium Chloride - 9.9 M,19.55,145,Van Rossum Recycling
+2872058,chemicals,Sodium Hydroxide - 0.2 M,5.23,89,Stroustrup Manufacturing
+2870005,electronics,7-gate NOR Gate,1.96,239,Newman Niceties
+2872059,chemicals,Acetic Acid - 1.6 M,8.9,294,Gosling Goods
+2872060,chemicals,Sulfurous Acid - 0.5 M,33.35,312,Van Rossum Recycling
+2872061,chemicals,Sodium Hydroxide - 14.0 M,17.6,266,Stroustrup Manufacturing
+2872062,chemicals,Potassium Chloride - 13.3 M,7.12,53,Newman Niceties
+2872063,chemicals,Sodium Hydroxide - 10.0 M,19.43,78,Van Rossum Recycling
+2872064,chemicals,Sulfuric Acid - 12.8 M,10.21,204,Gosling Goods
+2872065,chemicals,Sulfuric Acid - 12.3 M,37.72,125,Hejlsberg Industries
+2872066,chemicals,Sulfuric Acid - 12.7 M,35.52,17,K+R Industries
+2872067,chemicals,Sulfurous Acid - 11.6 M,23.48,387,Van Rossum Recycling
+2872068,chemicals,Sulfurous Acid - 7.0 M,39.58,5,Gosling Goods
+2872069,chemicals,Acetic Acid - 11.5 M,19.03,376,Newman Niceties
+2872070,chemicals,Sodium Hydroxide - 9.7 M,25.1,258,K+R Industries
+2870006,electronics,3-gate OR Gate,13.57,312,Hejlsberg Industries
+2872071,chemicals,Sulfuric Acid - 4.0 M,27.05,309,Gosling Goods
+2872072,chemicals,Sulfuric Acid - 9.7 M,35.1,257,Van Rossum Recycling
+2872073,chemicals,Sulfurous Acid - 11.0 M,4.18,374,K+R Industries
+2872074,chemicals,Acetic Acid - 14.4 M,31.55,313,Newman Niceties
+2874000,tools,Screwdriver - Phillips,31.37,307,K+R Industries
+2872075,chemicals,Sulfurous Acid - 8.9 M,15.32,199,Hejlsberg Industries
+2872076,chemicals,Sulfurous Acid - 3.7 M,1.22,40,Newman Niceties
+2870007,electronics,3-gate NOR Gate,23.2,225,Newman Niceties
+2872077,chemicals,Acetic Acid - 0.6 M,39.46,60,K+R Industries
+2872078,chemicals,Sulfurous Acid - 11.6 M,16.54,187,Stroustrup Manufacturing
+2872079,chemicals,Sulfurous Acid - 3.2 M,11.32,192,Stroustrup Manufacturing
+2872080,chemicals,Sodium Hydroxide - 4.4 M,17.05,353,Stroustrup Manufacturing
+2872081,chemicals,Sulfurous Acid - 4.1 M,2.45,303,Stroustrup Manufacturing
+2872082,chemicals,Potassium Chloride - 13.4 M,15.57,282,Van Rossum Recycling
+2872083,chemicals,Sodium Hydroxide - 5.9 M,10.55,176,Van Rossum Recycling
+2872084,chemicals,Sulfuric Acid - 12.9 M,27.42,221,Gosling Goods
+2870008,electronics,4-gate NOR Gate,16.38,152,K+R Industries
+2872085,chemicals,Potassium Chloride - 12.4 M,13.06,271,Gosling Goods
+2872086,chemicals,Hydrochloric Acid - 1.5 M,4.64,156,Hejlsberg Industries
+2872087,chemicals,Potassium Chloride - 11.7 M,10.5,118,Newman Niceties
+2871000,IC,4-bit Adder,32.79,50,Newman Niceties
+2872088,chemicals,Hydrochloric Acid - 4.6 M,33.34,240,Van Rossum Recycling
+2872089,chemicals,Sodium Hydroxide - 3.8 M,22.71,202,Van Rossum Recycling
+2872090,chemicals,Hydrochloric Acid - 10.9 M,18.75,201,Stroustrup Manufacturing
+2872091,chemicals,Sodium Hydroxide - 4.4 M,25.27,42,K+R Industries
+2872092,chemicals,Sulfurous Acid - 11.5 M,6.74,350,Hejlsberg Industries
+2872093,chemicals,Potassium Chloride - 0.9 M,2.52,217,Stroustrup Manufacturing
+2872094,chemicals,Sulfurous Acid - 1.3 M,3.64,167,Stroustrup Manufacturing
+2872095,chemicals,Potassium Chloride - 1.9 M,15.13,332,Van Rossum Recycling
+2872096,chemicals,Sulfuric Acid - 2.0 M,29.49,190,Hejlsberg Industries
+2872097,chemicals,Sulfuric Acid - 2.4 M,36.01,349,Gosling Goods
+2872098,chemicals,Potassium Chloride - 6.3 M,5.83,106,Hejlsberg Industries
+2870009,electronics,4-gate XOR Gate,26.01,118,Hejlsberg Industries
+2872099,chemicals,Sulfurous Acid - 13.8 M,10.04,269,K+R Industries
+2872100,chemicals,Sodium Hydroxide - 0.8 M,22.47,175,Van Rossum Recycling
+2872101,chemicals,Acetic Acid - 5.4 M,31.21,230,Newman Niceties
+2872102,chemicals,Sulfuric Acid - 7.4 M,37.92,51,Gosling Goods
+2872103,chemicals,Sodium Hydroxide - 1.5 M,15.65,108,Van Rossum Recycling
+2872104,chemicals,Acetic Acid - 8.1 M,21.08,49,Gosling Goods
+2872105,chemicals,Sodium Hydroxide - 9.7 M,8.51,217,Gosling Goods
+2872106,chemicals,Hydrochloric Acid - 4.7 M,2.39,229,Van Rossum Recycling
+2872107,chemicals,Sodium Hydroxide - 9.3 M,8.61,41,Newman Niceties
+2872108,chemicals,Hydrochloric Acid - 3.9 M,34.38,149,Newman Niceties
+2872109,chemicals,Hydrochloric Acid - 7.0 M,30.13,130,Newman Niceties
+2872110,chemicals,Hydrochloric Acid - 4.5 M,0.2,20,Van Rossum Recycling
+2872111,chemicals,Sulfurous Acid - 11.3 M,13.3,141,Newman Niceties
+2870010,electronics,4-gate XNOR Gate,32.47,6,K+R Industries
+2872112,chemicals,Acetic Acid - 4.9 M,0.78,332,Van Rossum Recycling
+2872113,chemicals,Acetic Acid - 7.3 M,35.09,251,Stroustrup Manufacturing
+2872114,chemicals,Hydrochloric Acid - 7.8 M,4.46,345,Hejlsberg Industries
+2872115,chemicals,Sulfuric Acid - 2.1 M,28.41,205,Gosling Goods
+2872116,chemicals,Acetic Acid - 7.4 M,30.19,278,Stroustrup Manufacturing
+2872117,chemicals,Hydrochloric Acid - 6.0 M,39.78,200,Gosling Goods
+2872118,chemicals,Potassium Chloride - 7.6 M,25.12,271,Hejlsberg Industries
+2870011,electronics,3-gate OR Gate,7.52,104,Gosling Goods
+2872119,chemicals,Sodium Hydroxide - 1.7 M,21.5,385,K+R Industries
+2872120,chemicals,Sodium Hydroxide - 4.2 M,31.7,129,Newman Niceties
+2872121,chemicals,Acetic Acid - 13.4 M,23.61,12,Newman Niceties
+2872122,chemicals,Potassium Chloride - 2.0 M,38.9,49,Newman Niceties
+2872123,chemicals,Sodium Hydroxide - 3.8 M,33.04,188,K+R Industries
+2872124,chemicals,Acetic Acid - 5.8 M,27.62,93,Gosling Goods
+2872125,chemicals,Hydrochloric Acid - 4.8 M,3.26,82,Hejlsberg Industries
+2872126,chemicals,Sulfurous Acid - 2.2 M,9.28,102,Van Rossum Recycling
+2872127,chemicals,Hydrochloric Acid - 1.3 M,4.93,2,Newman Niceties
+2872128,chemicals,Hydrochloric Acid - 0.3 M,36.32,57,Stroustrup Manufacturing
+2872129,chemicals,Potassium Chloride - 10.8 M,37.94,33,K+R Industries
+2872130,chemicals,Sulfuric Acid - 14.7 M,1.24,217,Gosling Goods
+2872131,chemicals,Potassium Chloride - 13.3 M,1.81,182,K+R Industries
+2872132,chemicals,Sulfurous Acid - 0.2 M,15.01,257,Van Rossum Recycling
+2872133,chemicals,Acetic Acid - 8.9 M,9.93,227,K+R Industries
+2872134,chemicals,Acetic Acid - 2.9 M,16.74,139,K+R Industries
+2872135,chemicals,Sulfurous Acid - 9.3 M,6.84,355,Newman Niceties
+2872136,chemicals,Acetic Acid - 9.7 M,7.42,89,Gosling Goods
+2872137,chemicals,Sulfurous Acid - 3.3 M,18.66,377,Stroustrup Manufacturing
+2872138,chemicals,Sulfurous Acid - 3.0 M,10.38,266,Van Rossum Recycling
+2872139,chemicals,Sulfuric Acid - 5.6 M,5.79,157,Van Rossum Recycling
+2872140,chemicals,Sulfurous Acid - 11.1 M,23.45,386,Newman Niceties
+2872141,chemicals,Hydrochloric Acid - 2.9 M,1.29,346,Stroustrup Manufacturing
+2872142,chemicals,Acetic Acid - 5.0 M,9.84,350,Newman Niceties
+2872143,chemicals,Hydrochloric Acid - 1.5 M,16.04,395,Gosling Goods
+2872144,chemicals,Hydrochloric Acid - 7.4 M,14.22,188,Stroustrup Manufacturing
+2872145,chemicals,Potassium Chloride - 8.4 M,21.49,161,Gosling Goods
+2872146,chemicals,Sodium Hydroxide - 7.9 M,17.73,352,Gosling Goods
+2870012,electronics,3-gate NOR Gate,23.04,334,Van Rossum Recycling
+2872147,chemicals,Potassium Chloride - 3.2 M,25.67,184,Hejlsberg Industries
+2872148,chemicals,Potassium Chloride - 2.0 M,12.78,282,Hejlsberg Industries
+2872149,chemicals,Sulfuric Acid - 12.4 M,39.65,350,K+R Industries
+2870013,electronics,4-gate NOR Gate,38.59,226,Newman Niceties
+2872150,chemicals,Hydrochloric Acid - 8.5 M,25.24,98,Hejlsberg Industries
+2872151,chemicals,Acetic Acid - 12.3 M,29.95,259,K+R Industries
+2872152,chemicals,Sodium Hydroxide - 8.1 M,19.8,34,Van Rossum Recycling
+2872153,chemicals,Acetic Acid - 6.5 M,10.89,33,Stroustrup Manufacturing
+2872154,chemicals,Hydrochloric Acid - 2.0 M,11.69,201,Gosling Goods
+2872155,chemicals,Sulfuric Acid - 10.3 M,18.16,107,Gosling Goods
+2872156,chemicals,Sodium Hydroxide - 3.8 M,26.33,91,Gosling Goods
+2872157,chemicals,Sulfuric Acid - 12.7 M,24.67,399,Hejlsberg Industries
+2872158,chemicals,Potassium Chloride - 14.0 M,23.24,282,Gosling Goods
+2872159,chemicals,Acetic Acid - 3.1 M,1.85,157,Hejlsberg Industries
+2872160,chemicals,Hydrochloric Acid - 4.6 M,5.54,329,Newman Niceties
+2872161,chemicals,Sulfurous Acid - 12.1 M,37.18,48,Newman Niceties
+2872162,chemicals,Sodium Hydroxide - 9.7 M,27.3,46,Hejlsberg Industries
+2872163,chemicals,Acetic Acid - 7.7 M,29.26,359,Stroustrup Manufacturing
+2872164,chemicals,Hydrochloric Acid - 12.5 M,6.9,180,Gosling Goods
+2872165,chemicals,Sulfuric Acid - 6.1 M,7.06,375,Hejlsberg Industries
+2872166,chemicals,Sulfurous Acid - 9.1 M,15.19,246,K+R Industries
+2872167,chemicals,Sulfurous Acid - 7.4 M,23.23,308,Van Rossum Recycling
+2872168,chemicals,Potassium Chloride - 3.1 M,27.19,384,Newman Niceties
+2872169,chemicals,Acetic Acid - 8.2 M,28.61,128,Van Rossum Recycling
+2872170,chemicals,Sodium Hydroxide - 6.4 M,33.35,330,Hejlsberg Industries
+2872171,chemicals,Acetic Acid - 3.3 M,4.79,179,Stroustrup Manufacturing
+2872172,chemicals,Potassium Chloride - 3.7 M,25.32,212,Stroustrup Manufacturing
+2872173,chemicals,Acetic Acid - 2.7 M,3.18,27,Gosling Goods
+2872174,chemicals,Sodium Hydroxide - 3.2 M,20.73,153,Gosling Goods
+2872175,chemicals,Baking Soda,29.35,261,K+R Industries
+2872176,chemicals,Potassium Chloride - 4.6 M,21.02,250,Van Rossum Recycling
+2872177,chemicals,Sulfurous Acid - 6.6 M,28.6,376,Hejlsberg Industries
+2872178,chemicals,Acetic Acid - 3.6 M,36.6,295,Van Rossum Recycling
+2872179,chemicals,Sodium Hydroxide - 4.2 M,7.02,341,Stroustrup Manufacturing
+2872180,chemicals,Potassium,17.07,47,Van Rossum Recycling
+2872181,chemicals,Acetic Acid - 5.7 M,22.01,89,Stroustrup Manufacturing
+2872182,chemicals,Sulfuric Acid - 8.4 M,35.65,271,K+R Industries
+2872183,chemicals,Sulfuric Acid - 9.5 M,10.85,213,Van Rossum Recycling
+2872184,chemicals,Sulfurous Acid - 13.5 M,12.73,297,Newman Niceties
+2872185,chemicals,Acetic Acid - 3.4 M,6.71,376,K+R Industries
+2872186,chemicals,Sodium Hydroxide - 4.2 M,36.09,182,K+R Industries
+2872187,chemicals,Sulfuric Acid - 0.2 M,24.15,99,Hejlsberg Industries
+2872188,chemicals,Sulfuric Acid - 4.0 M,13.33,76,K+R Industries
+2872189,chemicals,Acetic Acid - 4.6 M,10.68,266,K+R Industries
+2872190,chemicals,Sulfurous Acid - 8.3 M,26.12,61,K+R Industries
+2872191,chemicals,Acetic Acid - 6.9 M,39.13,295,Hejlsberg Industries
+2872192,chemicals,Sodium Hydroxide - 4.7 M,32.78,156,Newman Niceties
+2872193,chemicals,Sulfuric Acid - 13.4 M,13.16,268,Newman Niceties
+2872194,chemicals,Sulfurous Acid - 6.5 M,1.01,156,Newman Niceties
+2872195,chemicals,Sulfurous Acid - 4.9 M,2.07,303,Newman Niceties
+2872196,chemicals,Sodium Hydroxide - 8.9 M,15.17,53,Hejlsberg Industries
+2872197,chemicals,Sulfuric Acid - 1.6 M,32.84,238,Stroustrup Manufacturing
+2872198,chemicals,Hydrochloric Acid - 5.6 M,33.41,24,Hejlsberg Industries
+2872199,chemicals,Potassium Chloride - 9.7 M,39.46,305,K+R Industries
+2872200,chemicals,Sulfurous Acid - 11.1 M,34.5,44,Hejlsberg Industries
+2872201,chemicals,Hydrochloric Acid - 12.1 M,37.49,4,Van Rossum Recycling
+2872202,chemicals,Potassium Chloride - 13.1 M,20.27,239,Gosling Goods
+2872203,chemicals,Sodium Hydroxide - 9.0 M,24.18,81,Hejlsberg Industries
+2872204,chemicals,Sulfuric Acid - 13.9 M,22.57,227,Van Rossum Recycling
+2870014,electronics,2-gate XOR Gate,31.08,320,Newman Niceties
+2872205,chemicals,Sodium Hydroxide - 0.3 M,1.33,137,K+R Industries
+2872206,chemicals,Hydrochloric Acid - 7.5 M,23.01,228,K+R Industries
+2870015,electronics,8-gate NAND Gate,13.33,258,Gosling Goods
+2872207,chemicals,Sodium Hydroxide - 1.7 M,33.96,80,Hejlsberg Industries
+2872208,chemicals,Hydrochloric Acid - 1.6 M,5.2,107,Gosling Goods
+2872209,chemicals,Sodium Hydroxide - 8.1 M,5.76,78,Gosling Goods
+2872210,chemicals,Sulfuric Acid - 14.6 M,17.57,336,Newman Niceties
+2872211,chemicals,Potassium Chloride - 1.5 M,14.53,155,Van Rossum Recycling
+2872212,chemicals,Acetic Acid - 11.1 M,6.98,293,Newman Niceties
+2872213,chemicals,Sulfurous Acid - 6.7 M,5.55,399,Van Rossum Recycling
+2872214,chemicals,Sodium Hydroxide - 7.9 M,19.14,28,Newman Niceties
+2872215,chemicals,Hydrochloric Acid - 3.4 M,39.18,124,Newman Niceties
+2872216,chemicals,Sulfuric Acid - 11.2 M,0.67,323,Stroustrup Manufacturing
+2872217,chemicals,Hydrochloric Acid - 8.9 M,20.69,60,K+R Industries
+2870016,electronics,LED,16.86,229,Newman Niceties
+2872218,chemicals,Sodium Hydroxide - 9.9 M,8.6,1,Van Rossum Recycling
+2872219,chemicals,Hydrochloric Acid - 8.8 M,6.21,357,Van Rossum Recycling
+2872220,chemicals,Acetic Acid - 0.9 M,39.55,94,Gosling Goods
+2872221,chemicals,Acetic Acid - 12.2 M,33.39,265,Gosling Goods
+2872222,chemicals,Sulfurous Acid - 0.7 M,22.84,257,K+R Industries
+2872223,chemicals,Sulfurous Acid - 10.3 M,1.88,385,Hejlsberg Industries
+2872224,chemicals,Hydrochloric Acid - 14.9 M,35.16,274,K+R Industries
+2872225,chemicals,Hydrochloric Acid - 9.9 M,20.72,395,Newman Niceties
+2872226,chemicals,Sulfuric Acid - 5.9 M,6.18,266,K+R Industries
+2872227,chemicals,Sulfurous Acid - 3.4 M,21.84,15,Stroustrup Manufacturing
+2872228,chemicals,Hydrochloric Acid - 11.8 M,28.28,382,Stroustrup Manufacturing
+2872229,chemicals,Potassium Chloride - 9.9 M,6.74,348,K+R Industries
+2872230,chemicals,Sodium Hydroxide - 6.0 M,16.99,61,K+R Industries
+2872231,chemicals,Acetic Acid - 1.2 M,10.01,320,Hejlsberg Industries
+2872232,chemicals,Sulfuric Acid - 5.7 M,36.08,209,K+R Industries
+2872233,chemicals,Sodium Hydroxide - 3.3 M,9.71,53,Stroustrup Manufacturing
+2872234,chemicals,Hydrochloric Acid - 9.0 M,25.66,168,Gosling Goods
+2872235,chemicals,Acetic Acid - 4.0 M,13.76,356,Gosling Goods
+2872236,chemicals,Hydrochloric Acid - 14.0 M,0.49,84,Hejlsberg Industries
+2872237,chemicals,Potassium Chloride - 1.4 M,38.99,86,Newman Niceties
+2872238,chemicals,Sulfuric Acid - 6.2 M,3.09,377,Van Rossum Recycling
+2872239,chemicals,Sulfuric Acid - 5.4 M,34.43,266,Van Rossum Recycling
+2870017,electronics,3-gate XNOR Gate,6.49,358,Hejlsberg Industries
+2872240,chemicals,Acetic Acid - 1.9 M,9.08,175,Stroustrup Manufacturing
+2872241,chemicals,Hydrochloric Acid - 8.8 M,36.79,105,K+R Industries
+2870018,electronics,2-gate AND Gate,11.36,255,Van Rossum Recycling
+2872242,chemicals,Sulfurous Acid - 4.6 M,31.55,109,Van Rossum Recycling
+2872243,chemicals,Potassium Chloride - 4.2 M,22.89,331,K+R Industries
+2872244,chemicals,Hydrochloric Acid - 7.3 M,34.11,294,K+R Industries
+2872245,chemicals,Potassium Chloride - 9.3 M,32.82,318,Hejlsberg Industries
+2872246,chemicals,Sulfurous Acid - 5.3 M,3.87,131,Stroustrup Manufacturing
+2872247,chemicals,Sulfurous Acid - 8.1 M,6.15,266,Hejlsberg Industries
+2872248,chemicals,Acetic Acid - 10.9 M,39.78,151,K+R Industries
+2872249,chemicals,Sulfurous Acid - 10.9 M,2.07,32,K+R Industries
+2872250,chemicals,Sulfuric Acid - 7.3 M,13.93,344,K+R Industries
+2872251,chemicals,Potassium Chloride - 2.7 M,8.11,254,Newman Niceties
+2872252,chemicals,Sulfuric Acid - 2.8 M,37.9,230,Stroustrup Manufacturing
+2872253,chemicals,Potassium Chloride - 1.6 M,29.58,123,Stroustrup Manufacturing
+2872254,chemicals,Sulfuric Acid - 2.9 M,16.82,367,Hejlsberg Industries
+2872255,chemicals,Potassium Chloride - 2.3 M,35.3,353,Gosling Goods
+2872256,chemicals,Acetic Acid - 0.6 M,17.81,287,Hejlsberg Industries
+2872257,chemicals,Acetic Acid - 9.3 M,9.88,332,Stroustrup Manufacturing
+2872258,chemicals,Hydrochloric Acid - 8.5 M,23.05,81,Newman Niceties
+2870019,electronics,2-gate XOR Gate,9.69,350,K+R Industries
+2872259,chemicals,Hydrochloric Acid - 1.7 M,8.49,350,Van Rossum Recycling
+2872260,chemicals,Acetic Acid - 12.7 M,14.03,54,Newman Niceties
+2872261,chemicals,Acetic Acid - 14.8 M,6.76,93,Gosling Goods
+2872262,chemicals,Hydrochloric Acid - 2.9 M,6.46,159,K+R Industries
+2872263,chemicals,Sodium Hydroxide - 9.1 M,5.52,71,Gosling Goods
+2872264,chemicals,Sulfurous Acid - 1.9 M,23.91,321,Gosling Goods
+2872265,chemicals,Potassium Chloride - 3.5 M,36.53,270,K+R Industries
+2872266,chemicals,Sulfuric Acid - 3.8 M,5.92,143,K+R Industries
+2872267,chemicals,Sodium Hydroxide - 5.1 M,23.62,220,Van Rossum Recycling
+2872268,chemicals,Hydrochloric Acid - 13.2 M,23.72,319,Hejlsberg Industries
+2872269,chemicals,Acetic Acid - 8.7 M,24.83,12,Stroustrup Manufacturing
+2870020,electronics,5-gate OR Gate,37.38,281,Gosling Goods
+2872270,chemicals,Hydrochloric Acid - 14.7 M,37.97,185,Stroustrup Manufacturing
+2872271,chemicals,Sulfurous Acid - 0.9 M,11.84,185,K+R Industries
+2870021,electronics,4-gate XOR Gate,12.51,356,Stroustrup Manufacturing
+2872272,chemicals,Potassium Chloride - 7.0 M,13.67,168,Van Rossum Recycling
+2872273,chemicals,Sulfurous Acid - 10.5 M,17.28,144,Van Rossum Recycling
+2872274,chemicals,Hydrochloric Acid - 0.6 M,0.55,116,Newman Niceties
+2872275,chemicals,Sodium Hydroxide - 4.4 M,30.75,15,Hejlsberg Industries
+2872276,chemicals,Sulfuric Acid - 12.9 M,35.66,263,Van Rossum Recycling
+2872277,chemicals,Potassium Chloride - 8.5 M,5.32,234,Gosling Goods
+2872278,chemicals,Sulfurous Acid - 8.5 M,39.61,142,Van Rossum Recycling
+2872279,chemicals,Sulfurous Acid - 6.4 M,4.96,36,Van Rossum Recycling
+2872280,chemicals,Hydrochloric Acid - 3.4 M,10.95,378,Van Rossum Recycling
+2872281,chemicals,Sulfurous Acid - 3.1 M,37.19,61,Newman Niceties
+2872282,chemicals,Sulfuric Acid - 7.7 M,2.94,311,Van Rossum Recycling
+2872283,chemicals,Sulfuric Acid - 0.4 M,32.93,97,Newman Niceties
+2872284,chemicals,Acetic Acid - 5.1 M,34.03,200,Stroustrup Manufacturing
+2872285,chemicals,Potassium Chloride - 3.9 M,32.13,169,K+R Industries
+2872286,chemicals,Acetic Acid - 10.0 M,23.18,385,K+R Industries
+2872287,chemicals,Hydrochloric Acid - 0.7 M,13.65,62,Gosling Goods
+2872288,chemicals,Sulfurous Acid - 9.6 M,5.07,301,Gosling Goods
+2872289,chemicals,Sodium Hydroxide - 12.1 M,13.31,10,Stroustrup Manufacturing
+2872290,chemicals,Sodium Hydroxide - 0.5 M,16.22,312,Gosling Goods
+2872291,chemicals,Potassium Chloride - 14.4 M,6.84,240,K+R Industries
+2872292,chemicals,Acetic Acid - 6.4 M,34.81,297,Van Rossum Recycling
+2872293,chemicals,Potassium Chloride - 7.6 M,38.72,135,Newman Niceties
+2872294,chemicals,Sulfuric Acid - 3.6 M,17.75,282,Van Rossum Recycling
+2872295,chemicals,Acetic Acid - 13.9 M,25.94,173,Van Rossum Recycling
+2872296,chemicals,Sodium Hydroxide - 11.0 M,29.33,165,Van Rossum Recycling
+2872297,chemicals,Sulfuric Acid - 11.4 M,35.09,1,K+R Industries
+2872298,chemicals,Hydrochloric Acid - 7.5 M,25.28,274,Hejlsberg Industries
+2872299,chemicals,Sulfuric Acid - 5.2 M,36.94,136,Van Rossum Recycling
+2872300,chemicals,Sulfuric Acid - 1.0 M,22.56,180,Hejlsberg Industries
+2872301,chemicals,Hydrochloric Acid - 13.2 M,37.11,0,Gosling Goods
+2872302,chemicals,Hydrochloric Acid - 3.1 M,12.53,93,Van Rossum Recycling
+2872303,chemicals,Acetic Acid - 14.3 M,29.99,234,Stroustrup Manufacturing
+2870022,electronics,8-gate OR Gate,19.41,266,K+R Industries
+2872304,chemicals,Potassium Chloride - 4.3 M,21.77,193,Van Rossum Recycling
+2872305,chemicals,Potassium Chloride - 8.3 M,2.18,341,Van Rossum Recycling
+2870023,electronics,5-gate XNOR Gate,14.72,178,Gosling Goods
+2872306,chemicals,Sodium Hydroxide - 10.5 M,3.64,132,K+R Industries
+2872307,chemicals,Sulfuric Acid - 13.7 M,39.99,247,Stroustrup Manufacturing
+2872308,chemicals,Sulfurous Acid - 8.8 M,36.29,53,Stroustrup Manufacturing
+2872309,chemicals,Hydrochloric Acid - 11.2 M,14.74,178,K+R Industries
+2872310,chemicals,Acetic Acid - 8.4 M,33.23,205,K+R Industries
+2872311,chemicals,Potassium Chloride - 11.9 M,15.99,161,K+R Industries
+2872312,chemicals,Sulfuric Acid - 6.0 M,28.2,358,K+R Industries
+2872313,chemicals,Hydrochloric Acid - 13.4 M,7.36,155,Newman Niceties
+2870024,electronics,7-gate AND Gate,21.1,246,Gosling Goods
+2872314,chemicals,Sulfurous Acid - 4.0 M,14.58,47,Newman Niceties
+2872315,chemicals,Hydrochloric Acid - 11.8 M,5.99,31,Van Rossum Recycling
+2872316,chemicals,Hydrochloric Acid - 2.2 M,30.92,147,Hejlsberg Industries
+2872317,chemicals,Sulfurous Acid - 8.3 M,11.54,252,Stroustrup Manufacturing
+2872318,chemicals,Sulfurous Acid - 10.9 M,20.93,397,Newman Niceties
+2872319,chemicals,Potassium Chloride - 11.1 M,19.4,173,Hejlsberg Industries
+2872320,chemicals,Sulfuric Acid - 14.1 M,12.49,128,Stroustrup Manufacturing
+2872321,chemicals,Sulfurous Acid - 9.2 M,28.46,187,Newman Niceties
+chemicals,Acetic Acid - 14.1 M,16.89,28,Hejlsberg Industries
+2872323,chemicals,Sulfuric Acid - 5.3 M,11.7,163,Stroustrup Manufacturing
+2872324,chemicals,Potassium Chloride - 6.7 M,29.9,393,Stroustrup Manufacturing
+2872325,chemicals,Sulfuric Acid - 1.9 M,31.2,297,Stroustrup Manufacturing
+2872326,chemicals,Sodium Hydroxide - 1.8 M,26.81,76,Van Rossum Recycling
+2872327,chemicals,Acetic Acid - 6.7 M,27.18,181,K+R Industries
+2872328,chemicals,Sodium Hydroxide - 13.8 M,28.33,219,Van Rossum Recycling
+2872329,chemicals,Hydrochloric Acid - 5.9 M,38.02,21,Stroustrup Manufacturing
+2872330,chemicals,Sulfurous Acid - 13.1 M,26.6,301,Hejlsberg Industries
+2872331,chemicals,Sulfurous Acid - 3.2 M,7.92,110,K+R Industries
+2872332,chemicals,Acetic Acid - 8.4 M,2.54,361,Van Rossum Recycling
+2872333,chemicals,Hydrochloric Acid - 6.4 M,9.41,41,Gosling Goods
+2872334,chemicals,Sodium Hydroxide - 10.5 M,28.39,216,Van Rossum Recycling
+2872335,chemicals,Sulfuric Acid - 2.2 M,15.88,371,Stroustrup Manufacturing
+2872336,chemicals,Sodium Hydroxide - 8.2 M,34.28,6,K+R Industries
+2872337,chemicals,Hydrochloric Acid - 0.6 M,13.88,327,Stroustrup Manufacturing
+2872338,chemicals,Acetic Acid - 0.2 M,13.6,26,Stroustrup Manufacturing
+2872339,chemicals,Sodium Hydroxide - 2.2 M,37.48,59,Van Rossum Recycling
+2872340,chemicals,Potassium Chloride - 0.1 M,19.65,143,Newman Niceties
+2872341,chemicals,Hydrochloric Acid - 13.3 M,4.43,17,Hejlsberg Industries
+2872342,chemicals,Sulfuric Acid - 10.9 M,37.04,268,Stroustrup Manufacturing
+2872343,chemicals,Acetic Acid - 1.7 M,39.38,107,Van Rossum Recycling
+2872344,chemicals,Sodium Hydroxide - 3.6 M,0.62,393,Gosling Goods
+2872345,chemicals,Acetic Acid - 12.0 M,29.02,331,Gosling Goods
+2872346,chemicals,Potassium Chloride - 3.2 M,34.45,366,Stroustrup Manufacturing
+2872347,chemicals,Acetic Acid - 9.5 M,3.53,270,K+R Industries
+2872348,chemicals,Sodium Hydroxide - 5.4 M,32.78,63,K+R Industries
+2870025,electronics,1K Resistor,19.28,290,Stroustrup Manufacturing
+2872349,chemicals,Acetic Acid - 13.6 M,24.59,209,Gosling Goods
+2872350,chemicals,Sulfuric Acid - 0.7 M,5.86,65,Newman Niceties
+2872351,chemicals,Acetic Acid - 7.5 M,36.62,16,K+R Industries
+2872352,chemicals,Hydrochloric Acid - 11.0 M,1.9,129,Stroustrup Manufacturing
+2872353,chemicals,Sulfurous Acid - 8.2 M,7.26,10,Gosling Goods
+2872354,chemicals,Baking Soda,13.2,241,Hejlsberg Industries
+2872355,chemicals,Acetic Acid - 1.0 M,17.04,215,Hejlsberg Industries
+2872356,chemicals,Sodium Hydroxide - 5.7 M,16.28,93,Newman Niceties
+2872357,chemicals,Acetic Acid - 13.1 M,19.97,107,Gosling Goods
+2872358,chemicals,Sulfurous Acid - 5.2 M,36.36,88,Van Rossum Recycling
+2872359,chemicals,Sulfuric Acid - 10.5 M,31.45,21,Gosling Goods
+2872360,chemicals,Acetic Acid - 4.4 M,18.76,163,Gosling Goods
+2872361,chemicals,Sulfurous Acid - 7.1 M,25.2,295,Newman Niceties
+2872362,chemicals,Sulfurous Acid - 6.6 M,1.73,101,K+R Industries
+2872363,chemicals,Acetic Acid - 3.0 M,13.57,187,Newman Niceties
+2870026,electronics,3-gate NOT Gate,24.54,70,Hejlsberg Industries
+2872364,chemicals,Potassium Chloride - 7.9 M,29.01,210,Hejlsberg Industries
+2872365,chemicals,Sulfuric Acid - 10.8 M,39.89,163,Stroustrup Manufacturing
+2870027,electronics,3-gate NOT Gate,29.08,173,Van Rossum Recycling
+2872366,chemicals,Sulfurous Acid - 1.0 M,6.8,151,Newman Niceties
+2872367,chemicals,Sulfuric Acid - 5.2 M,38.73,271,Newman Niceties
+2872368,chemicals,Potassium Chloride - 2.2 M,11.18,26,Gosling Goods
+2872369,chemicals,Sulfuric Acid - 8.9 M,32.16,289,Gosling Goods
+2872370,chemicals,Acetic Acid - 3.3 M,19.06,110,Hejlsberg Industries
+2872371,chemicals,Sulfuric Acid - 4.7 M,14.58,294,Newman Niceties
+2872372,chemicals,Hydrochloric Acid - 5.7 M,19.63,387,K+R Industries
+2872373,chemicals,Potassium Chloride - 2.6 M,1.91,382,Newman Niceties
+2872374,chemicals,Hydrochloric Acid - 4.7 M,14.73,156,K+R Industries
+2872375,chemicals,Hydrochloric Acid - 14.3 M,27.2,245,K+R Industries
+2873000,food,Tea,26.14,188,Newman Niceties
+2870028,electronics,7-gate NOT Gate,29.19,111,Hejlsberg Industries
+2872376,chemicals,Sulfuric Acid - 11.4 M,30.64,395,Hejlsberg Industries
+2872377,chemicals,Sulfuric Acid - 7.2 M,2.34,156,Stroustrup Manufacturing
+2872378,chemicals,Sulfurous Acid - 14.7 M,11.94,128,Stroustrup Manufacturing
+2872379,chemicals,Potassium Chloride - 8.0 M,17.19,368,Hejlsberg Industries
+2872380,chemicals,Hydrochloric Acid - 9.4 M,2.9,357,Newman Niceties
+2872381,chemicals,Potassium Chloride - 4.2 M,7.03,7,Stroustrup Manufacturing
+2872382,chemicals,Potassium Chloride - 5.8 M,2.74,297,Gosling Goods
+2872383,chemicals,Potassium Chloride - 11.2 M,28.78,273,Van Rossum Recycling
+2872384,chemicals,Acetic Acid - 7.9 M,29.87,210,Newman Niceties
+2874001,tools,Oscilloscope,31.92,230,Hejlsberg Industries
+2872385,chemicals,Sodium Hydroxide - 7.3 M,32.55,340,Newman Niceties
+2872386,chemicals,Sodium Hydroxide - 13.4 M,16.02,207,Stroustrup Manufacturing
+2872387,chemicals,Hydrochloric Acid - 4.1 M,36.03,217,Gosling Goods
+2872388,chemicals,Sodium Hydroxide - 6.0 M,9.51,203,Van Rossum Recycling
+2872389,chemicals,Sulfuric Acid - 3.2 M,11.68,78,K+R Industries
+2872390,chemicals,Sulfuric Acid - 0.9 M,10.94,260,Gosling Goods
+2872391,chemicals,Sulfurous Acid - 13.5 M,4.35,194,Hejlsberg Industries
+2872392,chemicals,Hydrochloric Acid - 10.0 M,4.35,336,K+R Industries
+2872393,chemicals,Sulfuric Acid - 2.6 M,2.2,305,Newman Niceties
+2872394,chemicals,Sodium Hydroxide - 1.1 M,11.23,335,Hejlsberg Industries
+2872395,chemicals,Sulfuric Acid - 9.2 M,31.98,363,Gosling Goods
+2870029,electronics,4-gate NOT Gate,17.49,277,Newman Niceties
+2870030,electronics,7-gate XNOR Gate,21.46,152,Gosling Goods
+2872396,chemicals,Sodium Hydroxide - 10.0 M,9.8,281,Stroustrup Manufacturing
+2870031,electronics,8-gate XNOR Gate,19.73,284,Gosling Goods
+2872397,chemicals,Potassium Chloride - 5.2 M,27.7,293,Van Rossum Recycling
+2870032,electronics,2-gate OR Gate,23.12,272,Van Rossum Recycling
+2872398,chemicals,Sulfuric Acid - 10.5 M,37.75,266,Hejlsberg Industries
+2872399,chemicals,Sodium Hydroxide - 6.0 M,8.02,298,Hejlsberg Industries
+2872400,chemicals,Sodium Hydroxide - 7.0 M,17.69,358,Newman Niceties
+2872401,chemicals,Potassium Chloride - 4.4 M,19.33,28,Stroustrup Manufacturing
+2872402,chemicals,Sodium Hydroxide - 11.4 M,19.44,121,Van Rossum Recycling
+2870033,electronics,LED,13.59,183,Gosling Goods
+2872403,chemicals,Sodium Hydroxide - 8.8 M,24.67,393,Newman Niceties
+2874002,tools,Oscilloscope,22.64,112,Newman Niceties
+2870034,electronics,3-gate NOR Gate,27.02,136,K+R Industries
+2872404,chemicals,Sulfurous Acid - 3.2 M,22.28,173,Hejlsberg Industries
+2872405,chemicals,Sulfurous Acid - 5.0 M,18.41,139,Van Rossum Recycling
+2872406,chemicals,Sulfurous Acid - 14.2 M,26.92,260,Newman Niceties
+2872407,chemicals,Sodium Hydroxide - 7.2 M,26.28,148,Newman Niceties
+2872408,chemicals,Potassium Chloride - 3.9 M,4.03,360,Stroustrup Manufacturing
+2872409,chemicals,Hydrochloric Acid - 5.8 M,24.56,230,Van Rossum Recycling
+2873001,food,Sourdough Bread,25.54,229,Newman Niceties
+2872410,chemicals,Hydrochloric Acid - 6.8 M,20.74,304,Hejlsberg Industries
+2872411,chemicals,Acetic Acid - 0.7 M,10.7,130,K+R Industries
+2872412,chemicals,Acetic Acid - 14.6 M,35.24,94,Gosling Goods
+2872413,chemicals,Potassium Chloride - 3.4 M,18.67,369,Hejlsberg Industries
+2872414,chemicals,Potassium Chloride - 4.2 M,19.43,271,Hejlsberg Industries
+2872415,chemicals,Hydrochloric Acid - 8.8 M,30.24,274,Hejlsberg Industries
+2872416,chemicals,Acetic Acid - 1.4 M,13.49,59,Stroustrup Manufacturing
+2872417,chemicals,Hydrochloric Acid - 3.1 M,1.29,169,Hejlsberg Industries
+2872418,chemicals,Sulfurous Acid - 1.3 M,6.44,238,Hejlsberg Industries
+2872419,chemicals,Sulfuric Acid - 13.3 M,36.48,250,Van Rossum Recycling
+2872420,chemicals,Sodium Hydroxide - 0.9 M,21.57,88,Hejlsberg Industries
+2870035,electronics,5-gate NAND Gate,2.97,287,Newman Niceties
+2872421,chemicals,Potassium Chloride - 0.9 M,6.37,226,Hejlsberg Industries
+2872422,chemicals,Potassium Chloride - 14.9 M,33.89,213,K+R Industries
+2872423,chemicals,Sulfurous Acid - 5.9 M,8.73,395,Van Rossum Recycling
+2872424,chemicals,Potassium Chloride - 2.9 M,12.35,72,Van Rossum Recycling
+2872425,chemicals,Acetic Acid - 6.0 M,34.95,243,Van Rossum Recycling
+2872426,chemicals,Acetic Acid - 9.5 M,34.11,305,Hejlsberg Industries
+2872427,chemicals,Sulfuric Acid - 5.7 M,23.07,284,Newman Niceties
+2872428,chemicals,Hydrochloric Acid - 10.9 M,15.07,291,Gosling Goods
+2872429,chemicals,Sulfuric Acid - 11.0 M,6.2,277,Gosling Goods
+2872430,chemicals,Hydrochloric Acid - 0.5 M,38.87,252,Van Rossum Recycling
+2872431,chemicals,Sulfurous Acid - 6.7 M,16.36,33,Newman Niceties
+2872432,chemicals,Sulfuric Acid - 8.5 M,19.39,190,Hejlsberg Industries
+2872433,chemicals,Hydrochloric Acid - 5.7 M,21.82,143,Newman Niceties
+2872434,chemicals,Acetic Acid - 5.9 M,38.15,159,K+R Industries
+2872435,chemicals,Potassium Chloride - 8.0 M,24.83,281,Gosling Goods
+2872436,chemicals,Acetic Acid - 3.0 M,27.36,87,Hejlsberg Industries
+2872437,chemicals,Potassium Chloride - 7.0 M,33.76,18,K+R Industries
+2872438,chemicals,Hydrochloric Acid - 3.4 M,24.1,386,Hejlsberg Industries
+2872439,chemicals,Sodium Hydroxide - 0.2 M,32.4,266,K+R Industries
+2872440,chemicals,Acetic Acid - 10.6 M,6.84,23,Van Rossum Recycling
+2872441,chemicals,Hydrochloric Acid - 1.3 M,16.59,27,Van Rossum Recycling
+2872442,chemicals,Acetic Acid - 12.2 M,20.94,226,Hejlsberg Industries
+2872443,chemicals,Acetic Acid - 10.1 M,6.0,243,Gosling Goods
+2872444,chemicals,Hydrochloric Acid - 5.9 M,31.11,396,Newman Niceties
+2872445,chemicals,Sulfurous Acid - 1.6 M,11.97,318,Newman Niceties
+2872446,chemicals,Acetic Acid - 7.2 M,36.89,371,Hejlsberg Industries
+2872447,chemicals,Sulfuric Acid - 13.8 M,7.47,110,Hejlsberg Industries
+2872448,chemicals,Baking Soda,24.44,271,Van Rossum Recycling
+2872449,chemicals,Potassium Chloride - 12.6 M,35.75,165,Gosling Goods
+2870036,electronics,2-gate XOR Gate,24.27,104,Hejlsberg Industries
+2872450,chemicals,Hydrochloric Acid - 13.9 M,28.0,1,Gosling Goods
+2872451,chemicals,Potassium Chloride - 0.9 M,33.57,314,Van Rossum Recycling
+2872452,chemicals,Acetic Acid - 7.9 M,34.26,391,K+R Industries
+2872453,chemicals,Potassium Chloride - 6.3 M,1.15,334,K+R Industries
+2872454,chemicals,Potassium Chloride - 7.9 M,5.07,281,K+R Industries
+2872455,chemicals,Sulfuric Acid - 8.4 M,8.8,255,Van Rossum Recycling
+2872456,chemicals,Potassium Chloride - 10.6 M,33.36,274,Stroustrup Manufacturing
+2872457,chemicals,Acetic Acid - 6.5 M,12.94,253,Newman Niceties
+2872458,chemicals,Acetic Acid - 3.4 M,21.51,145,Van Rossum Recycling
+2872459,chemicals,Sodium Hydroxide - 1.5 M,10.64,128,K+R Industries
+2872460,chemicals,Sodium Hydroxide - 4.9 M,6.59,396,Gosling Goods
+2872461,chemicals,Potassium Chloride - 1.0 M,15.93,258,Stroustrup Manufacturing
+2872462,chemicals,Hydrochloric Acid - 3.8 M,11.41,234,Newman Niceties
+2872463,chemicals,Hydrochloric Acid - 4.6 M,4.99,32,Stroustrup Manufacturing
+2872464,chemicals,Sulfuric Acid - 14.2 M,28.16,303,Hejlsberg Industries
+2870037,electronics,8-gate XNOR Gate,9.22,129,Hejlsberg Industries
+2872465,chemicals,Sodium Hydroxide - 2.3 M,33.01,355,Newman Niceties
+2872466,chemicals,Potassium Chloride - 10.4 M,13.18,300,Stroustrup Manufacturing
+2872467,chemicals,Acetic Acid - 2.5 M,15.15,343,Hejlsberg Industries
+2872468,chemicals,Potassium Chloride - 1.6 M,17.78,164,Hejlsberg Industries
+2872469,chemicals,Sulfurous Acid - 14.5 M,7.54,175,Newman Niceties
+2872470,chemicals,Sulfuric Acid - 14.4 M,17.03,347,K+R Industries
+2872471,chemicals,Potassium Chloride - 8.6 M,3.22,131,K+R Industries
+2872472,chemicals,Acetic Acid - 7.8 M,3.28,130,Newman Niceties
+chemicals,Hydrochloric Acid - 11.5 M,5.46,191,Gosling Goods
+2872474,chemicals,Hydrochloric Acid - 1.3 M,13.08,312,K+R Industries
+2872475,chemicals,Sulfuric Acid - 6.4 M,6.66,88,Stroustrup Manufacturing
+2872476,chemicals,Hydrochloric Acid - 2.9 M,30.81,210,Newman Niceties
+2872477,chemicals,Sodium Hydroxide - 9.5 M,37.38,141,Gosling Goods
+2872478,chemicals,Hydrochloric Acid - 14.3 M,38.52,199,Hejlsberg Industries
+2872479,chemicals,Acetic Acid - 1.4 M,15.29,342,K+R Industries
+2872480,chemicals,Sulfuric Acid - 8.8 M,27.54,212,Stroustrup Manufacturing
+2872481,chemicals,Sodium Hydroxide - 14.5 M,30.78,91,Van Rossum Recycling
+2872482,chemicals,Sulfuric Acid - 5.6 M,4.48,54,Stroustrup Manufacturing
+2872483,chemicals,Potassium Chloride - 9.3 M,5.57,5,Newman Niceties
+2872484,chemicals,Acetic Acid - 4.1 M,23.9,349,Gosling Goods
+2872485,chemicals,Potassium Chloride - 14.4 M,23.35,52,Hejlsberg Industries
+2872486,chemicals,Sodium Hydroxide - 7.5 M,14.2,239,Gosling Goods
+2872487,chemicals,Sodium Hydroxide - 14.4 M,31.34,351,K+R Industries
+2872488,chemicals,Sodium Hydroxide - 1.1 M,4.84,397,Newman Niceties
+2872489,chemicals,Sodium Hydroxide - 3.9 M,27.61,45,Hejlsberg Industries
+2872490,chemicals,Sulfuric Acid - 6.4 M,31.33,321,K+R Industries
+2872491,chemicals,Sulfuric Acid - 2.9 M,6.62,290,Gosling Goods
+2870038,electronics,4-gate XOR Gate,35.29,215,Newman Niceties
+2872492,chemicals,Potassium Chloride - 0.2 M,25.64,71,K+R Industries
+2872493,chemicals,Sodium Hydroxide - 6.3 M,6.6,38,Gosling Goods
+2872494,chemicals,Sodium Hydroxide - 8.2 M,32.92,200,Stroustrup Manufacturing
+2872495,chemicals,Sulfuric Acid - 9.6 M,11.16,237,Newman Niceties
+2872496,chemicals,Acetic Acid - 8.9 M,9.22,175,Van Rossum Recycling
+2872497,chemicals,Acetic Acid - 13.8 M,15.66,20,Van Rossum Recycling
+2872498,chemicals,Hydrochloric Acid - 6.2 M,12.01,355,Gosling Goods
+2872499,chemicals,Acetic Acid - 2.9 M,7.26,273,Van Rossum Recycling
+2872500,chemicals,Sodium Hydroxide - 10.9 M,0.43,24,Newman Niceties
+2872501,chemicals,Sulfuric Acid - 11.2 M,29.01,207,K+R Industries
+2872502,chemicals,Hydrochloric Acid - 3.9 M,32.76,256,Stroustrup Manufacturing
+2872503,chemicals,Sodium Hydroxide - 8.2 M,11.14,317,Van Rossum Recycling
+2872504,chemicals,Potassium Chloride - 11.3 M,8.91,188,Stroustrup Manufacturing
+2872505,chemicals,Sulfuric Acid - 10.4 M,11.69,228,Van Rossum Recycling
+2872506,chemicals,Acetic Acid - 2.9 M,23.21,285,Stroustrup Manufacturing
+2872507,chemicals,Sulfuric Acid - 2.5 M,27.23,389,K+R Industries
+2872508,chemicals,Potassium Chloride - 12.5 M,16.59,133,Newman Niceties
+2872509,chemicals,Potassium Chloride - 14.1 M,13.93,301,Newman Niceties
+2872510,chemicals,Sulfurous Acid - 9.8 M,22.0,165,Hejlsberg Industries
+2872511,chemicals,Acetic Acid - 10.8 M,32.16,90,Stroustrup Manufacturing
+2872512,chemicals,Potassium Chloride - 1.2 M,18.85,106,Hejlsberg Industries
+2872513,chemicals,Sodium Hydroxide - 10.2 M,32.01,370,Hejlsberg Industries
+2872514,chemicals,Potassium Chloride - 2.9 M,10.93,103,Newman Niceties
+2872515,chemicals,Sulfuric Acid - 10.1 M,1.18,126,Stroustrup Manufacturing
+2872516,chemicals,Sulfurous Acid - 11.2 M,38.53,121,Stroustrup Manufacturing
+2872517,chemicals,Hydrochloric Acid - 10.2 M,33.01,286,Newman Niceties
+2872518,chemicals,Potassium Chloride - 5.4 M,7.29,19,Stroustrup Manufacturing
+2870039,electronics,8-gate XOR Gate,34.29,108,K+R Industries
+2872519,chemicals,Potassium Chloride - 3.9 M,14.19,300,Van Rossum Recycling
+2872520,chemicals,Acetic Acid - 5.8 M,22.47,369,Newman Niceties
+2872521,chemicals,Sulfurous Acid - 7.7 M,27.5,267,Gosling Goods
+2872522,chemicals,Hydrochloric Acid - 11.2 M,38.26,117,Newman Niceties
+2872523,chemicals,Potassium Chloride - 11.9 M,27.82,148,Newman Niceties
+2872524,chemicals,Acetic Acid - 8.2 M,7.67,256,Stroustrup Manufacturing
+2872525,chemicals,Hydrochloric Acid - 11.4 M,10.36,213,K+R Industries
+2872526,chemicals,Sulfuric Acid - 7.5 M,36.0,340,Gosling Goods
+2872527,chemicals,Sodium Hydroxide - 2.5 M,11.42,293,Van Rossum Recycling
+2872528,chemicals,Potassium Chloride - 0.8 M,5.67,389,Stroustrup Manufacturing
+2872529,chemicals,Sodium Hydroxide - 5.5 M,29.52,151,Gosling Goods
+2872530,chemicals,Sodium Hydroxide - 7.4 M,11.99,77,Gosling Goods
+2872531,chemicals,Potassium Chloride - 14.9 M,18.01,98,Hejlsberg Industries
+2872532,chemicals,Sulfuric Acid - 2.6 M,8.67,255,Stroustrup Manufacturing
+2872533,chemicals,Potassium Chloride - 10.7 M,0.64,20,Gosling Goods
+2872534,chemicals,Acetic Acid - 0.9 M,36.34,170,Hejlsberg Industries
+2872535,chemicals,Sulfurous Acid - 1.3 M,2.4,325,Newman Niceties
+2872536,chemicals,Sulfuric Acid - 2.8 M,23.04,181,Van Rossum Recycling
+2872537,chemicals,Potassium Chloride - 0.9 M,20.38,241,Newman Niceties
+2872538,chemicals,Acetic Acid - 11.0 M,19.73,18,Stroustrup Manufacturing
+2872539,chemicals,Acetic Acid - 9.8 M,30.69,170,K+R Industries
+2870040,electronics,5-gate NOT Gate,38.69,147,K+R Industries
+2872540,chemicals,Sodium Hydroxide - 1.3 M,12.64,293,Gosling Goods
+2872541,chemicals,Potassium Chloride - 4.4 M,30.93,395,Newman Niceties
+2872542,chemicals,Acetic Acid - 6.5 M,20.95,370,Van Rossum Recycling
+2873002,food,Scones,31.69,317,Gosling Goods
+2872543,chemicals,Hydrochloric Acid - 2.1 M,5.81,73,Stroustrup Manufacturing
+2872544,chemicals,Sulfurous Acid - 5.6 M,14.96,314,K+R Industries
+2872545,chemicals,Sulfuric Acid - 13.9 M,37.58,316,Hejlsberg Industries
+2872546,chemicals,Sulfurous Acid - 14.2 M,27.21,62,Hejlsberg Industries
+2872547,chemicals,Sodium Hydroxide - 14.0 M,32.34,158,Gosling Goods
+2872548,chemicals,Acetic Acid - 11.1 M,0.91,245,Van Rossum Recycling
+2872549,chemicals,Hydrochloric Acid - 4.3 M,28.41,36,Stroustrup Manufacturing
+2872550,chemicals,Hydrochloric Acid - 7.8 M,7.86,223,Newman Niceties
+2872551,chemicals,Acetic Acid - 7.0 M,17.29,339,Stroustrup Manufacturing
+2872552,chemicals,Sodium Hydroxide - 2.7 M,0.37,94,Newman Niceties
+2872553,chemicals,Potassium Chloride - 12.7 M,5.9,14,Gosling Goods
+2872554,chemicals,Acetic Acid - 8.5 M,16.31,175,Stroustrup Manufacturing
+2872555,chemicals,Acetic Acid - 10.8 M,10.86,242,Hejlsberg Industries
+2872556,chemicals,Sulfuric Acid - 4.2 M,30.86,65,Stroustrup Manufacturing
+2872557,chemicals,Sodium Hydroxide - 5.8 M,23.67,379,K+R Industries
+2872558,chemicals,Sulfuric Acid - 10.0 M,2.46,168,Stroustrup Manufacturing
+2872559,chemicals,Sodium Hydroxide - 4.2 M,29.12,247,Hejlsberg Industries
+2872560,chemicals,Sodium Hydroxide - 3.7 M,28.12,289,Gosling Goods
+2872561,chemicals,Sodium Hydroxide - 14.5 M,27.73,17,Newman Niceties
+2872562,chemicals,Potassium Chloride - 11.6 M,37.9,299,K+R Industries
+2872563,chemicals,Sulfurous Acid - 11.5 M,35.77,140,K+R Industries
+2872564,chemicals,Acetic Acid - 9.2 M,38.24,383,Gosling Goods
+2872565,chemicals,Hydrochloric Acid - 10.1 M,20.8,327,Hejlsberg Industries
+2872566,chemicals,Sodium Hydroxide - 12.5 M,24.52,150,Stroustrup Manufacturing
+2872567,chemicals,Potassium Chloride - 8.7 M,13.3,306,K+R Industries
+2872568,chemicals,Potassium Chloride - 4.1 M,6.55,74,Stroustrup Manufacturing
+2872569,chemicals,Sodium Hydroxide - 13.0 M,2.14,358,Stroustrup Manufacturing
+2870041,electronics,4-gate XOR Gate,32.83,219,K+R Industries
+2872570,chemicals,Hydrochloric Acid - 10.3 M,36.07,261,Van Rossum Recycling
+2872571,chemicals,Sulfurous Acid - 11.0 M,5.8,41,Newman Niceties
+2872572,chemicals,Acetic Acid - 13.6 M,5.42,31,Van Rossum Recycling
+2872573,chemicals,Potassium Chloride - 5.6 M,30.24,231,Hejlsberg Industries
+2872574,chemicals,Hydrochloric Acid - 14.6 M,32.83,156,Gosling Goods
+2870042,electronics,7-gate AND Gate,15.2,122,Hejlsberg Industries
+2872575,chemicals,Sulfurous Acid - 13.7 M,9.42,8,Gosling Goods
+2872576,chemicals,Hydrochloric Acid - 13.7 M,20.23,196,Hejlsberg Industries
+2872577,chemicals,Sulfuric Acid - 11.1 M,22.07,111,K+R Industries
+2872578,chemicals,Acetic Acid - 7.5 M,1.98,100,Newman Niceties
+2872579,chemicals,Sulfurous Acid - 3.9 M,31.78,198,Newman Niceties
+2872580,chemicals,Acetic Acid - 11.3 M,32.49,50,Gosling Goods
+2872581,chemicals,Sodium Hydroxide - 10.1 M,2.61,327,Stroustrup Manufacturing
+2872582,chemicals,Acetic Acid - 10.3 M,14.45,44,Hejlsberg Industries
+2872583,chemicals,Sulfuric Acid - 2.7 M,3.64,244,Hejlsberg Industries
+2872584,chemicals,Sodium Hydroxide - 2.0 M,2.03,216,Hejlsberg Industries
+2873003,food,Water,36.66,277,Van Rossum Recycling
+2872585,chemicals,Sulfurous Acid - 6.4 M,0.54,345,Stroustrup Manufacturing
+2872586,chemicals,Sulfurous Acid - 2.3 M,12.14,97,Newman Niceties
+2872587,chemicals,Sulfuric Acid - 8.6 M,9.58,202,Hejlsberg Industries
+2872588,chemicals,Sulfuric Acid - 6.8 M,21.19,348,Newman Niceties
+2870043,electronics,5-gate NOT Gate,39.5,331,Gosling Goods
+2872589,chemicals,Acetic Acid - 1.7 M,9.25,382,K+R Industries
+2872590,chemicals,Sulfuric Acid - 12.8 M,10.43,213,Newman Niceties
+2872591,chemicals,Sodium Hydroxide - 2.4 M,32.75,3,Stroustrup Manufacturing
+2872592,chemicals,Sodium Hydroxide - 3.9 M,13.42,7,K+R Industries
+2872593,chemicals,Sodium Hydroxide - 4.5 M,21.37,181,Stroustrup Manufacturing
+2872594,chemicals,Hydrochloric Acid - 7.7 M,33.89,26,K+R Industries
+chemicals,Potassium Chloride - 1.9 M,11.0,21,Newman Niceties
+2872596,chemicals,Sulfuric Acid - 11.1 M,9.52,120,Stroustrup Manufacturing
+2872597,chemicals,Acetic Acid - 1.0 M,25.54,299,Gosling Goods
+2872598,chemicals,Sulfurous Acid - 13.1 M,2.65,36,Gosling Goods
+2872599,chemicals,Acetic Acid - 11.7 M,14.24,69,Hejlsberg Industries
+2872600,chemicals,Sodium Hydroxide - 5.6 M,16.53,106,Hejlsberg Industries
+2872601,chemicals,Acetic Acid - 4.8 M,37.0,340,Newman Niceties
+2872602,chemicals,Sulfuric Acid - 12.5 M,21.12,98,Newman Niceties
+2872603,chemicals,Potassium Chloride - 13.9 M,1.2,79,K+R Industries
+2872604,chemicals,Sodium Hydroxide - 4.3 M,37.52,71,Van Rossum Recycling
+2872605,chemicals,Acetic Acid - 7.3 M,26.21,349,Gosling Goods
+2872606,chemicals,Potassium Chloride - 7.7 M,16.08,357,K+R Industries
+2872607,chemicals,Hydrochloric Acid - 2.3 M,31.23,332,Stroustrup Manufacturing
+2872608,chemicals,Potassium Chloride - 7.8 M,6.21,233,K+R Industries
+2872609,chemicals,Hydrochloric Acid - 7.1 M,24.96,173,Van Rossum Recycling
+2872610,chemicals,Sulfurous Acid - 4.0 M,27.98,292,Gosling Goods
+2872611,chemicals,Sulfurous Acid - 7.1 M,2.85,138,Hejlsberg Industries
+2870044,electronics,4-gate XNOR Gate,31.37,250,Newman Niceties
+2872612,chemicals,Sulfurous Acid - 13.0 M,31.59,59,Gosling Goods
+2872613,chemicals,Sodium Hydroxide - 11.7 M,8.48,12,Newman Niceties
+2872614,chemicals,Potassium Chloride - 9.3 M,28.77,75,Stroustrup Manufacturing
+2872615,chemicals,Potassium Chloride - 4.9 M,30.02,45,Gosling Goods
+2872616,chemicals,Sulfuric Acid - 8.3 M,4.23,226,Gosling Goods
+2870045,electronics,5-gate OR Gate,32.65,11,Hejlsberg Industries
+2872617,chemicals,Sulfuric Acid - 2.0 M,1.51,153,Stroustrup Manufacturing
+2872618,chemicals,Sodium Hydroxide - 1.7 M,25.36,371,Newman Niceties
+2872619,chemicals,Acetic Acid - 11.4 M,24.75,223,Newman Niceties
+2872620,chemicals,Hydrochloric Acid - 6.2 M,21.12,237,K+R Industries
+2872621,chemicals,Hydrochloric Acid - 13.6 M,5.53,151,K+R Industries
+2872622,chemicals,Hydrochloric Acid - 14.5 M,9.88,322,Newman Niceties
+2872623,chemicals,Hydrochloric Acid - 0.2 M,12.53,19,Van Rossum Recycling
+2872624,chemicals,Hydrochloric Acid - 8.5 M,14.59,39,K+R Industries
+2872625,chemicals,Sodium Hydroxide - 1.2 M,6.95,255,Gosling Goods
+2872626,chemicals,Sulfurous Acid - 6.8 M,30.54,169,Newman Niceties
+2872627,chemicals,Sulfurous Acid - 5.8 M,25.13,161,Stroustrup Manufacturing
+2872628,chemicals,Potassium Chloride - 6.6 M,14.6,56,Hejlsberg Industries
+2872629,chemicals,Potassium Chloride - 10.0 M,32.2,331,Van Rossum Recycling
+2872630,chemicals,Sodium Hydroxide - 9.0 M,21.07,159,Van Rossum Recycling
+2872631,chemicals,Sodium Hydroxide - 4.1 M,19.74,68,Gosling Goods
+2872632,chemicals,Sulfurous Acid - 9.3 M,9.9,221,Van Rossum Recycling
+2872633,chemicals,Sodium Hydroxide - 14.4 M,20.3,134,Gosling Goods
+2872634,chemicals,Sodium Hydroxide - 3.3 M,26.02,40,Van Rossum Recycling
+2872635,chemicals,Sodium Hydroxide - 5.2 M,4.62,133,Newman Niceties
+2872636,chemicals,Sulfuric Acid - 3.7 M,20.03,157,Newman Niceties
+2872637,chemicals,Potassium Chloride - 6.7 M,7.61,25,Gosling Goods
+2872638,chemicals,Potassium Chloride - 8.9 M,26.23,46,Gosling Goods
+2872639,chemicals,Hydrochloric Acid - 8.3 M,32.37,126,K+R Industries
+2872640,chemicals,Potassium Chloride - 7.6 M,6.32,87,Van Rossum Recycling
+2870046,electronics,8-gate NOR Gate,8.36,82,Van Rossum Recycling
+2872641,chemicals,Acetic Acid - 6.2 M,24.41,351,Newman Niceties
+2872642,chemicals,Sodium Hydroxide - 11.6 M,25.18,168,Van Rossum Recycling
+2872643,chemicals,Sulfurous Acid - 9.3 M,24.18,49,Stroustrup Manufacturing
+chemicals,Sodium Hydroxide - 5.3 M,30.08,89,Gosling Goods
+2872645,chemicals,Potassium Chloride - 9.0 M,31.94,213,Hejlsberg Industries
+2872646,chemicals,Sulfurous Acid - 14.2 M,11.06,184,K+R Industries
+2872647,chemicals,Hydrochloric Acid - 1.0 M,34.92,238,Hejlsberg Industries
+2872648,chemicals,Sulfuric Acid - 4.1 M,17.38,376,Hejlsberg Industries
+2872649,chemicals,Acetic Acid - 9.6 M,23.96,327,Van Rossum Recycling
+2872650,chemicals,Sulfuric Acid - 10.6 M,27.54,372,Van Rossum Recycling
+2872651,chemicals,Sulfurous Acid - 0.1 M,18.78,6,Stroustrup Manufacturing
+2872652,chemicals,Potassium Chloride - 6.1 M,2.58,382,Van Rossum Recycling
+2872653,chemicals,Potassium Chloride - 10.1 M,7.58,146,Hejlsberg Industries
+2870047,electronics,4-gate NOR Gate,26.81,106,Stroustrup Manufacturing
+2872654,chemicals,Sulfurous Acid - 4.8 M,35.57,124,Stroustrup Manufacturing
+2872655,chemicals,Potassium Chloride - 11.0 M,26.38,32,Hejlsberg Industries
+2872656,chemicals,Sulfurous Acid - 8.7 M,16.1,296,K+R Industries
+2872657,chemicals,Sulfurous Acid - 10.1 M,18.48,236,Gosling Goods
+2872658,chemicals,Sulfuric Acid - 8.3 M,27.2,92,K+R Industries
+2872659,chemicals,Sulfuric Acid - 3.9 M,7.75,236,Newman Niceties
+2872660,chemicals,Sulfurous Acid - 3.9 M,11.41,181,Hejlsberg Industries
+2872661,chemicals,Sulfurous Acid - 7.4 M,13.74,361,Hejlsberg Industries
+2872662,chemicals,Sulfurous Acid - 1.7 M,15.1,269,Stroustrup Manufacturing
+2872663,chemicals,Acetic Acid - 10.2 M,9.0,289,Newman Niceties
+2872664,chemicals,Sodium Hydroxide - 8.3 M,7.87,345,Hejlsberg Industries
+2872665,chemicals,Acetic Acid - 4.3 M,32.25,83,Hejlsberg Industries
+2872666,chemicals,Sodium Hydroxide - 8.8 M,35.36,312,Van Rossum Recycling
+2872667,chemicals,Sodium Hydroxide - 0.6 M,38.8,123,Gosling Goods
+2872668,chemicals,Sodium Hydroxide - 2.8 M,0.59,311,K+R Industries
+2872669,chemicals,Potassium Chloride - 11.4 M,19.47,312,Stroustrup Manufacturing
+2872670,chemicals,Hydrochloric Acid - 3.6 M,36.18,90,Gosling Goods
+2872671,chemicals,Sodium Hydroxide - 3.5 M,33.2,6,Stroustrup Manufacturing
+2872672,chemicals,Sodium Hydroxide - 7.2 M,12.64,193,Van Rossum Recycling
+2872673,chemicals,Potassium Chloride - 2.7 M,33.16,235,Gosling Goods
+2872674,chemicals,Hydrochloric Acid - 14.2 M,34.63,54,K+R Industries
+2872675,chemicals,Potassium Chloride - 6.5 M,30.34,386,Stroustrup Manufacturing
+2872676,chemicals,Sulfuric Acid - 7.3 M,26.0,143,Stroustrup Manufacturing
+2872677,chemicals,Acetic Acid - 8.7 M,22.18,230,Van Rossum Recycling
+2872678,chemicals,Hydrochloric Acid - 14.0 M,26.41,212,Van Rossum Recycling
+2872679,chemicals,Potassium Chloride - 9.7 M,4.61,67,Hejlsberg Industries
+2873004,food,Sourdough Bread,30.52,134,Van Rossum Recycling
+2872680,chemicals,Hydrochloric Acid - 8.5 M,9.34,303,Stroustrup Manufacturing
+2872681,chemicals,Hydrochloric Acid - 9.9 M,29.8,163,Hejlsberg Industries
+2872682,chemicals,Hydrochloric Acid - 0.8 M,36.09,159,K+R Industries
+2872683,chemicals,Sulfuric Acid - 11.6 M,24.35,264,Newman Niceties
+2872684,chemicals,Acetic Acid - 8.3 M,30.8,120,Hejlsberg Industries
+2872685,chemicals,Acetic Acid - 1.2 M,35.6,101,Newman Niceties
+2872686,chemicals,Hydrochloric Acid - 7.3 M,34.68,276,Stroustrup Manufacturing
+2872687,chemicals,Sulfurous Acid - 1.2 M,30.02,33,Hejlsberg Industries
+2872688,chemicals,Sulfurous Acid - 14.1 M,3.16,176,K+R Industries
+2872689,chemicals,Hydrochloric Acid - 7.7 M,17.5,197,Hejlsberg Industries
+2872690,chemicals,Sulfurous Acid - 8.9 M,23.91,24,Van Rossum Recycling
+2872691,chemicals,Sulfuric Acid - 1.0 M,6.28,46,K+R Industries
+2872692,chemicals,Sodium Hydroxide - 7.7 M,6.12,73,K+R Industries
+2872693,chemicals,Hydrochloric Acid - 7.9 M,25.08,69,Gosling Goods
+2872694,chemicals,Sulfuric Acid - 3.3 M,35.59,367,Gosling Goods
+2872695,chemicals,Sulfuric Acid - 9.0 M,29.92,171,Gosling Goods
+2872696,chemicals,Hydrochloric Acid - 0.5 M,10.55,174,Newman Niceties
+2872697,chemicals,Sulfuric Acid - 5.3 M,9.01,268,Van Rossum Recycling
+2872698,chemicals,Sulfuric Acid - 1.9 M,8.91,288,Hejlsberg Industries
+2872699,chemicals,Potassium Chloride - 5.5 M,21.22,30,Gosling Goods
+2872700,chemicals,Acetic Acid - 2.1 M,31.02,67,Newman Niceties
+2872701,chemicals,Sulfuric Acid - 6.0 M,9.42,40,Van Rossum Recycling
+2872702,chemicals,Hydrochloric Acid - 5.1 M,15.82,265,Newman Niceties
+2872703,chemicals,Sodium Hydroxide - 1.8 M,37.68,102,Stroustrup Manufacturing
+2872704,chemicals,Sulfurous Acid - 13.9 M,31.33,181,K+R Industries
+2872705,chemicals,Potassium Chloride - 5.5 M,8.4,246,Stroustrup Manufacturing
+2872706,chemicals,Potassium Chloride - 10.5 M,0.22,205,Newman Niceties
+2872707,chemicals,Acetic Acid - 2.5 M,38.67,32,Stroustrup Manufacturing
+2872708,chemicals,Hydrochloric Acid - 6.4 M,29.11,393,Stroustrup Manufacturing
+2872709,chemicals,Sodium Hydroxide - 0.7 M,9.44,158,Stroustrup Manufacturing
+2873005,food,Lemonade,38.14,219,Hejlsberg Industries
+2872710,chemicals,Sodium Hydroxide - 2.1 M,36.63,2,Stroustrup Manufacturing
+2872711,chemicals,Potassium Chloride - 1.5 M,25.75,265,Hejlsberg Industries
+2872712,chemicals,Acetic Acid - 7.5 M,2.81,297,Stroustrup Manufacturing
+2872713,chemicals,Acetic Acid - 12.1 M,13.46,385,Gosling Goods
+2872714,chemicals,Sulfurous Acid - 9.9 M,20.99,369,Gosling Goods
+2872715,chemicals,Acetic Acid - 8.7 M,0.37,77,K+R Industries
+2872716,chemicals,Acetic Acid - 10.4 M,2.81,106,Newman Niceties
+2872717,chemicals,Acetic Acid - 9.2 M,2.21,112,K+R Industries
+2872718,chemicals,Acetic Acid - 6.8 M,34.0,127,Stroustrup Manufacturing
+2872719,chemicals,Acetic Acid - 9.4 M,39.85,270,Newman Niceties
+2872720,chemicals,Potassium Chloride - 0.7 M,21.44,136,Van Rossum Recycling
+2872721,chemicals,Sulfurous Acid - 6.9 M,23.41,153,Van Rossum Recycling
+2872722,chemicals,Sulfurous Acid - 11.7 M,5.16,63,Newman Niceties
+2872723,chemicals,Sulfuric Acid - 3.7 M,35.95,166,Van Rossum Recycling
+2872724,chemicals,Sulfurous Acid - 5.5 M,13.87,260,Gosling Goods
+2872725,chemicals,Hydrochloric Acid - 4.8 M,12.21,18,Van Rossum Recycling
+2872726,chemicals,Sulfurous Acid - 2.2 M,28.35,165,Hejlsberg Industries
+2872727,chemicals,Sulfurous Acid - 7.1 M,18.63,364,Van Rossum Recycling
+2872728,chemicals,Acetic Acid - 6.1 M,22.43,196,K+R Industries
+2872729,chemicals,Hydrochloric Acid - 6.7 M,29.53,237,Gosling Goods
+2872730,chemicals,Hydrochloric Acid - 3.8 M,27.8,38,Van Rossum Recycling
+2870048,electronics,2-gate XNOR Gate,15.53,186,Stroustrup Manufacturing
+2872731,chemicals,Sodium Hydroxide - 8.4 M,4.2,73,Stroustrup Manufacturing
+2872732,chemicals,Potassium Chloride - 4.8 M,26.41,24,Gosling Goods
+2872733,chemicals,Sulfuric Acid - 14.0 M,13.73,83,Gosling Goods
+2872734,chemicals,Acetic Acid - 5.3 M,7.26,334,Gosling Goods
+2872735,chemicals,Sulfuric Acid - 1.9 M,29.9,257,Van Rossum Recycling
+2872736,chemicals,Sulfuric Acid - 5.3 M,24.63,354,Hejlsberg Industries
+2872737,chemicals,Potassium Chloride - 6.0 M,6.75,305,K+R Industries
+2872738,chemicals,Sulfuric Acid - 5.7 M,11.93,357,Hejlsberg Industries
+2872739,chemicals,Sodium Hydroxide - 13.5 M,7.38,22,Gosling Goods
+2872740,chemicals,Sulfurous Acid - 12.8 M,6.36,35,Newman Niceties
+2872741,chemicals,Potassium Chloride - 4.5 M,3.48,353,Stroustrup Manufacturing
+2872742,chemicals,Sodium Hydroxide - 6.7 M,27.47,129,Stroustrup Manufacturing
+2872743,chemicals,Sulfurous Acid - 13.9 M,7.37,154,Van Rossum Recycling
+2872744,chemicals,Acetic Acid - 12.5 M,32.29,377,Stroustrup Manufacturing
+2872745,chemicals,Potassium Chloride - 4.7 M,39.47,26,Stroustrup Manufacturing
+2872746,chemicals,Sulfurous Acid - 8.5 M,9.74,388,K+R Industries
+2872747,chemicals,Sulfuric Acid - 1.3 M,21.46,14,Van Rossum Recycling
+2870049,electronics,2-gate NOR Gate,32.72,246,Hejlsberg Industries
+2872748,chemicals,Potassium Chloride - 9.2 M,24.97,298,Van Rossum Recycling
+2872749,chemicals,Sulfuric Acid - 5.0 M,12.54,304,K+R Industries
+2872750,chemicals,Hydrochloric Acid - 13.8 M,15.97,255,Stroustrup Manufacturing
+2872751,chemicals,Potassium Chloride - 11.8 M,10.54,358,Van Rossum Recycling
+2872752,chemicals,Sulfuric Acid - 7.4 M,12.77,202,Hejlsberg Industries
+2872753,chemicals,Sodium Hydroxide - 10.8 M,7.39,226,Newman Niceties
+2872754,chemicals,Sodium Hydroxide - 13.3 M,39.16,324,K+R Industries
+2872755,chemicals,Acetic Acid - 14.3 M,22.63,282,Gosling Goods
+2872756,chemicals,Acetic Acid - 0.3 M,2.55,319,Stroustrup Manufacturing
+2872757,chemicals,Sulfurous Acid - 5.7 M,9.6,304,Gosling Goods
+2872758,chemicals,Sulfuric Acid - 12.1 M,1.81,312,Newman Niceties
+2872759,chemicals,Sulfurous Acid - 3.4 M,31.47,232,Newman Niceties
+2872760,chemicals,Sodium Hydroxide - 5.4 M,15.76,71,Hejlsberg Industries
+2872761,chemicals,Potassium Chloride - 2.6 M,35.86,381,Stroustrup Manufacturing
+2872762,chemicals,Hydrochloric Acid - 12.7 M,23.49,246,Gosling Goods
+2872763,chemicals,Sodium Hydroxide - 2.3 M,26.4,22,Gosling Goods
+2872764,chemicals,Sulfurous Acid - 7.6 M,27.52,309,Newman Niceties
+2872765,chemicals,Sulfurous Acid - 6.5 M,21.67,384,Gosling Goods
+2872766,chemicals,Acetic Acid - 6.1 M,8.43,180,Gosling Goods
+2872767,chemicals,Sulfurous Acid - 13.3 M,4.36,374,Stroustrup Manufacturing
+2872768,chemicals,Hydrochloric Acid - 13.7 M,34.32,350,Van Rossum Recycling
+2872769,chemicals,Potassium Chloride - 12.5 M,31.63,163,Gosling Goods
+2872770,chemicals,Potassium Chloride - 14.1 M,9.95,157,Gosling Goods
+2872771,chemicals,Distilled Water,35.61,306,Van Rossum Recycling
+2872772,chemicals,Sulfuric Acid - 9.6 M,0.76,376,Hejlsberg Industries
+2872773,chemicals,Potassium Chloride - 11.0 M,1.38,219,K+R Industries
+2872774,chemicals,Hydrochloric Acid - 4.3 M,18.04,141,K+R Industries
+2872775,chemicals,Sodium Hydroxide - 4.6 M,10.61,261,Van Rossum Recycling
+2872776,chemicals,Hydrochloric Acid - 11.2 M,30.79,244,Stroustrup Manufacturing
+2872777,chemicals,Potassium Chloride - 11.9 M,6.37,315,Stroustrup Manufacturing
+2872778,chemicals,Sulfurous Acid - 4.6 M,22.88,288,Newman Niceties
+2872779,chemicals,Sulfuric Acid - 10.0 M,26.27,374,Hejlsberg Industries
+2872780,chemicals,Acetic Acid - 14.0 M,12.16,191,Gosling Goods
+2872781,chemicals,Potassium Chloride - 7.1 M,18.56,158,Newman Niceties
+2872782,chemicals,Hydrochloric Acid - 2.9 M,27.29,121,Hejlsberg Industries
+2872783,chemicals,Hydrochloric Acid - 11.1 M,19.16,294,Hejlsberg Industries
+2872784,chemicals,Sodium Hydroxide - 8.0 M,16.6,377,Van Rossum Recycling
+2872785,chemicals,Sulfuric Acid - 2.2 M,3.09,361,Newman Niceties
+2872786,chemicals,Sulfurous Acid - 3.3 M,29.91,165,Hejlsberg Industries
+2871001,IC,Tri-state Buffer,15.52,306,Van Rossum Recycling
+2872787,chemicals,Sulfurous Acid - 10.7 M,31.68,226,Newman Niceties
+2872788,chemicals,Sodium Hydroxide - 12.8 M,10.05,146,Hejlsberg Industries
+2872789,chemicals,Acetic Acid - 3.5 M,23.45,237,Stroustrup Manufacturing
+2872790,chemicals,Acetic Acid - 12.8 M,9.32,226,Stroustrup Manufacturing
+2872791,chemicals,Sodium Hydroxide - 14.6 M,39.1,367,Van Rossum Recycling
+2872792,chemicals,Potassium Chloride - 11.5 M,6.68,344,Van Rossum Recycling
+2872793,chemicals,Sodium Hydroxide - 11.4 M,6.99,279,Newman Niceties
+2872794,chemicals,Sulfuric Acid - 3.0 M,34.92,160,Van Rossum Recycling
+2872795,chemicals,Acetic Acid - 9.1 M,28.37,204,Gosling Goods
+2872796,chemicals,Hydrochloric Acid - 11.4 M,1.57,243,Van Rossum Recycling
+2872797,chemicals,Hydrochloric Acid - 2.6 M,37.7,81,Gosling Goods
+2872798,chemicals,Potassium Chloride - 3.1 M,5.77,97,Gosling Goods
+2872799,chemicals,Hydrochloric Acid - 4.0 M,5.73,214,Hejlsberg Industries
+2872800,chemicals,Sulfuric Acid - 9.9 M,31.64,12,Hejlsberg Industries
+2872801,chemicals,Sulfuric Acid - 11.7 M,0.08,115,Van Rossum Recycling
+2872802,chemicals,Hydrochloric Acid - 13.7 M,4.79,339,K+R Industries
+2872803,chemicals,Potassium Chloride - 3.0 M,2.78,268,K+R Industries
+2872804,chemicals,Sodium Hydroxide - 5.0 M,2.43,205,K+R Industries
+2872805,chemicals,Sodium Hydroxide - 6.8 M,6.33,372,Hejlsberg Industries
+2874003,tools,Screwdriver - Flathead,35.03,358,Newman Niceties
+2872806,chemicals,Sulfuric Acid - 0.6 M,39.19,327,Gosling Goods
+2872807,chemicals,Hydrochloric Acid - 11.4 M,28.31,162,Stroustrup Manufacturing
+2872808,chemicals,Sulfurous Acid - 5.7 M,1.54,257,Newman Niceties
+2872809,chemicals,Sulfuric Acid - 6.6 M,24.95,340,Newman Niceties
+2872810,chemicals,Acetic Acid - 10.3 M,10.1,87,K+R Industries
+2872811,chemicals,Sulfuric Acid - 2.7 M,30.51,96,K+R Industries
+2872812,chemicals,Acetic Acid - 10.0 M,4.66,92,Hejlsberg Industries
+2872813,chemicals,Acetic Acid - 1.1 M,27.9,359,K+R Industries
+2872814,chemicals,Potassium Chloride - 14.0 M,30.66,69,Hejlsberg Industries
+2872815,chemicals,Hydrochloric Acid - 3.0 M,28.57,323,Gosling Goods
+2872816,chemicals,Hydrochloric Acid - 12.2 M,17.22,52,Van Rossum Recycling
+2872817,chemicals,Sodium Hydroxide - 5.0 M,13.75,20,Stroustrup Manufacturing
+2872818,chemicals,Hydrochloric Acid - 7.1 M,15.19,371,K+R Industries
+2872819,chemicals,Acetic Acid - 13.3 M,8.59,223,K+R Industries
+2872820,chemicals,Sulfurous Acid - 11.4 M,5.97,357,Newman Niceties
+2872821,chemicals,Potassium Chloride - 6.8 M,7.85,34,Gosling Goods
+2872822,chemicals,Hydrochloric Acid - 10.0 M,21.84,29,Hejlsberg Industries
+2872823,chemicals,Acetic Acid - 4.2 M,26.22,309,K+R Industries
+2872824,chemicals,Sodium Hydroxide - 4.8 M,35.1,389,K+R Industries
+2872825,chemicals,Hydrochloric Acid - 11.7 M,23.13,330,K+R Industries
+2872826,chemicals,Hydrochloric Acid - 11.2 M,9.66,260,Hejlsberg Industries
+2872827,chemicals,Potassium Chloride - 11.9 M,7.47,316,Hejlsberg Industries
+2872828,chemicals,Sulfuric Acid - 9.1 M,5.9,296,K+R Industries
+2872829,chemicals,Hydrochloric Acid - 10.2 M,9.65,38,Hejlsberg Industries
+2872830,chemicals,Acetic Acid - 10.8 M,37.82,51,Gosling Goods
+2872831,chemicals,Sodium Hydroxide - 12.2 M,33.13,144,K+R Industries
+2872832,chemicals,Sodium Hydroxide - 10.6 M,18.06,390,Hejlsberg Industries
+2872833,chemicals,Hydrochloric Acid - 0.2 M,18.02,196,K+R Industries
+2872834,chemicals,Hydrochloric Acid - 7.7 M,26.02,247,Newman Niceties
+2872835,chemicals,Acetic Acid - 13.6 M,13.77,244,K+R Industries
+2872836,chemicals,Sodium Hydroxide - 11.8 M,3.48,244,Newman Niceties
+2872837,chemicals,Sulfuric Acid - 12.1 M,18.08,141,K+R Industries
+2872838,chemicals,Sodium Hydroxide - 7.6 M,8.44,13,Stroustrup Manufacturing
+2872839,chemicals,Sulfuric Acid - 0.2 M,37.02,198,Gosling Goods
+2872840,chemicals,Sulfurous Acid - 13.9 M,18.68,148,Stroustrup Manufacturing
+2870050,electronics,6-gate XOR Gate,36.85,14,Van Rossum Recycling
+2872841,chemicals,Hydrochloric Acid - 13.7 M,26.55,358,Gosling Goods
+2872842,chemicals,Hydrochloric Acid - 5.1 M,35.16,200,Gosling Goods
+2872843,chemicals,Sulfurous Acid - 3.3 M,21.98,133,Van Rossum Recycling
+2870051,electronics,2-gate NOR Gate,22.31,213,K+R Industries
+2872844,chemicals,Hydrochloric Acid - 6.8 M,29.01,178,K+R Industries
+2872845,chemicals,Hydrochloric Acid - 11.9 M,10.69,239,Newman Niceties
+2872846,chemicals,Acetic Acid - 2.0 M,9.77,168,K+R Industries
+2872847,chemicals,Potassium Chloride - 14.8 M,18.84,233,Van Rossum Recycling
+2872848,chemicals,Sulfuric Acid - 7.2 M,9.43,221,Gosling Goods
+2872849,chemicals,Sulfuric Acid - 9.8 M,39.6,121,Hejlsberg Industries
+2872850,chemicals,Hydrochloric Acid - 1.3 M,10.62,44,Stroustrup Manufacturing
+2872851,chemicals,Potassium Chloride - 12.0 M,31.45,397,Gosling Goods
+2872852,chemicals,Hydrochloric Acid - 10.6 M,26.16,26,Newman Niceties
+2872853,chemicals,Acetic Acid - 0.5 M,36.75,283,Stroustrup Manufacturing
+2872854,chemicals,Acetic Acid - 4.3 M,12.54,245,Van Rossum Recycling
+2872855,chemicals,Sodium Hydroxide - 3.9 M,2.34,205,Van Rossum Recycling
+2872856,chemicals,Acetic Acid - 14.6 M,8.39,165,Newman Niceties
+2872857,chemicals,Acetic Acid - 7.4 M,18.23,261,K+R Industries
+2870052,electronics,3-gate OR Gate,0.82,97,Stroustrup Manufacturing
+2870053,electronics,7-gate XOR Gate,33.27,203,Van Rossum Recycling
+2872858,chemicals,Sulfuric Acid - 2.2 M,22.55,9,K+R Industries
+2872859,chemicals,Acetic Acid - 2.6 M,28.8,236,Van Rossum Recycling
+2872860,chemicals,Hydrochloric Acid - 13.8 M,14.71,176,K+R Industries
+2872861,chemicals,Sulfurous Acid - 1.1 M,35.4,214,Van Rossum Recycling
+2872862,chemicals,Sulfuric Acid - 10.4 M,39.5,57,Gosling Goods
+2872863,chemicals,Sulfuric Acid - 12.3 M,33.16,323,Stroustrup Manufacturing
+2873006,food,Bananas,25.31,162,Hejlsberg Industries
+2872864,chemicals,Sodium Hydroxide - 2.6 M,22.92,361,Stroustrup Manufacturing
+2872865,chemicals,Sulfuric Acid - 2.1 M,12.09,236,Stroustrup Manufacturing
+2872866,chemicals,Acetic Acid - 5.0 M,35.1,110,Stroustrup Manufacturing
+2872867,chemicals,Sulfurous Acid - 9.7 M,1.49,273,Gosling Goods
+2872868,chemicals,Acetic Acid - 8.8 M,20.45,277,Stroustrup Manufacturing
+2872869,chemicals,Hydrochloric Acid - 11.5 M,31.65,358,Stroustrup Manufacturing
+2872870,chemicals,Sulfurous Acid - 4.4 M,5.83,61,Van Rossum Recycling
+2872871,chemicals,Acetic Acid - 6.5 M,27.37,380,K+R Industries
+2871002,IC,4-bit Adder,0.65,74,Hejlsberg Industries
+2872872,chemicals,Sodium Hydroxide - 6.7 M,1.63,233,K+R Industries
+2872873,chemicals,Potassium Chloride - 4.9 M,17.52,318,K+R Industries
+2872874,chemicals,Sulfuric Acid - 7.4 M,8.19,310,Van Rossum Recycling
+2872875,chemicals,Sodium Hydroxide - 9.3 M,13.01,360,Stroustrup Manufacturing
+2870054,electronics,CMOS Transistor,21.45,195,Gosling Goods
+2870055,electronics,4-gate NOR Gate,25.55,189,Hejlsberg Industries
+2872876,chemicals,Potassium Chloride - 1.6 M,21.45,313,Van Rossum Recycling
+2874004,tools,Screwdriver - Flathead,20.02,138,Van Rossum Recycling
+2872877,chemicals,Sulfurous Acid - 6.0 M,0.29,124,Gosling Goods
+2872878,chemicals,Sulfurous Acid - 10.6 M,2.02,322,Hejlsberg Industries
+2872879,chemicals,Acetic Acid - 3.9 M,6.01,399,Stroustrup Manufacturing
+2872880,chemicals,Hydrochloric Acid - 11.1 M,33.17,25,K+R Industries
+2872881,chemicals,Acetic Acid - 5.7 M,14.34,309,Van Rossum Recycling
+2872882,chemicals,Acetic Acid - 7.9 M,32.91,396,Hejlsberg Industries
+2872883,chemicals,Sodium Hydroxide - 7.3 M,34.96,84,Hejlsberg Industries
+2872884,chemicals,Sodium Hydroxide - 3.4 M,15.96,17,Newman Niceties
+2872885,chemicals,Sulfurous Acid - 7.4 M,26.38,132,Stroustrup Manufacturing
+2872886,chemicals,Hydrochloric Acid - 1.7 M,23.98,92,Stroustrup Manufacturing
+2872887,chemicals,Acetic Acid - 1.4 M,12.57,288,Newman Niceties
+2872888,chemicals,Sulfuric Acid - 0.5 M,20.56,173,K+R Industries
+2872889,chemicals,Sodium Hydroxide - 12.8 M,33.91,271,K+R Industries
+2872890,chemicals,Sulfurous Acid - 9.3 M,1.97,354,Hejlsberg Industries
+2872891,chemicals,Sulfurous Acid - 8.2 M,19.07,387,Newman Niceties
+2872892,chemicals,Sulfurous Acid - 1.8 M,18.43,48,Van Rossum Recycling
+2872893,chemicals,Sodium Hydroxide - 12.6 M,29.09,186,Newman Niceties
+2872894,chemicals,Sodium Hydroxide - 4.1 M,26.06,103,Hejlsberg Industries
+2872895,chemicals,Hydrochloric Acid - 7.2 M,39.2,397,Van Rossum Recycling
+2872896,chemicals,Hydrochloric Acid - 1.3 M,33.24,231,Hejlsberg Industries
+2872897,chemicals,Sulfurous Acid - 0.1 M,14.99,168,Hejlsberg Industries
+2872898,chemicals,Acetic Acid - 14.3 M,15.49,311,K+R Industries
+2872899,chemicals,Sodium Hydroxide - 3.6 M,34.65,269,Newman Niceties
+2872900,chemicals,Sulfurous Acid - 7.6 M,30.29,399,Stroustrup Manufacturing
+2872901,chemicals,Sodium Hydroxide - 9.0 M,25.09,115,K+R Industries
+2870056,electronics,3-gate NOR Gate,5.94,219,Gosling Goods
+2872902,chemicals,Sulfurous Acid - 2.8 M,2.51,126,Stroustrup Manufacturing
+2872903,chemicals,Acetic Acid - 11.8 M,32.63,30,Stroustrup Manufacturing
+2872904,chemicals,Acetic Acid - 14.4 M,35.07,35,Gosling Goods
+2872905,chemicals,Sodium Hydroxide - 12.2 M,26.23,152,Newman Niceties
+2872906,chemicals,Sodium Hydroxide - 10.0 M,6.63,99,Newman Niceties
+2872907,chemicals,Hydrochloric Acid - 5.7 M,20.6,352,Hejlsberg Industries
+2872908,chemicals,Sulfurous Acid - 4.1 M,15.77,38,Newman Niceties
+2872909,chemicals,Sulfuric Acid - 0.1 M,20.61,391,Hejlsberg Industries
+2872910,chemicals,Sodium Hydroxide - 14.3 M,25.14,294,Stroustrup Manufacturing
+2872911,chemicals,Hydrochloric Acid - 0.8 M,13.05,343,Hejlsberg Industries
+2872912,chemicals,Acetic Acid - 0.7 M,24.91,228,Gosling Goods
+2872913,chemicals,Sulfurous Acid - 6.9 M,12.01,236,K+R Industries
+2870057,electronics,4-gate XNOR Gate,29.42,260,Hejlsberg Industries
+2872914,chemicals,Acetic Acid - 10.9 M,10.14,190,Gosling Goods
+2872915,chemicals,Potassium Chloride - 2.6 M,2.73,64,Gosling Goods
+2872916,chemicals,Potassium Chloride - 1.1 M,33.52,43,Hejlsberg Industries
+2872917,chemicals,Sodium Hydroxide - 0.9 M,11.67,5,Van Rossum Recycling
+2872918,chemicals,Acetic Acid - 9.8 M,38.38,208,Stroustrup Manufacturing
+2870058,electronics,PMOS Transistor,23.04,322,Stroustrup Manufacturing
+2872919,chemicals,Acetic Acid - 0.4 M,20.81,77,Gosling Goods
+2872920,chemicals,Sulfuric Acid - 1.9 M,9.09,386,K+R Industries
+2872921,chemicals,Sulfurous Acid - 12.4 M,23.78,125,Stroustrup Manufacturing
+2872922,chemicals,Sodium Hydroxide - 5.9 M,10.7,92,Newman Niceties
+2872923,chemicals,Sulfuric Acid - 11.2 M,4.49,317,Van Rossum Recycling
+2872924,chemicals,Hydrochloric Acid - 6.8 M,39.86,299,Newman Niceties
+2872925,chemicals,Hydrochloric Acid - 11.9 M,29.62,213,K+R Industries
+2872926,chemicals,Sulfuric Acid - 8.8 M,3.56,134,Van Rossum Recycling
+2872927,chemicals,Potassium Chloride - 4.7 M,33.79,223,Newman Niceties
+2872928,chemicals,Acetic Acid - 12.5 M,36.31,282,Newman Niceties
+2872929,chemicals,Hydrochloric Acid - 10.2 M,35.72,304,K+R Industries
+2872930,chemicals,Hydrochloric Acid - 12.8 M,14.64,27,Van Rossum Recycling
+2872931,chemicals,Sulfurous Acid - 0.9 M,19.85,259,Gosling Goods
+2872932,chemicals,Sodium Hydroxide - 14.5 M,25.44,261,Stroustrup Manufacturing
+2872933,chemicals,Sodium Hydroxide - 4.8 M,4.75,359,Hejlsberg Industries
+2873007,food,Coffee,26.05,129,Newman Niceties
+2872934,chemicals,Potassium Chloride - 4.3 M,24.37,103,Stroustrup Manufacturing
+2872935,chemicals,Acetic Acid - 14.0 M,11.24,80,Stroustrup Manufacturing
+2872936,chemicals,Potassium Chloride - 8.3 M,25.8,398,Stroustrup Manufacturing
+2872937,chemicals,Sulfuric Acid - 6.7 M,15.31,300,Hejlsberg Industries
+2872938,chemicals,Acetic Acid - 14.6 M,13.12,205,K+R Industries
+2872939,chemicals,Sodium Hydroxide - 13.0 M,19.62,49,Newman Niceties
+2872940,chemicals,Sodium Hydroxide - 13.7 M,28.25,294,Newman Niceties
+2872941,chemicals,Hydrochloric Acid - 13.8 M,27.92,370,Newman Niceties
+2872942,chemicals,Sodium Hydroxide - 1.3 M,2.99,91,K+R Industries
+2872943,chemicals,Hydrochloric Acid - 6.0 M,14.04,70,Van Rossum Recycling
+2872944,chemicals,Potassium Chloride - 9.4 M,9.85,352,Hejlsberg Industries
+2873008,food,Tea,32.41,354,K+R Industries
+2872945,chemicals,Acetic Acid - 8.9 M,33.29,274,Hejlsberg Industries
+chemicals,Sulfuric Acid - 6.9 M,37.14,344,Van Rossum Recycling
+2872947,chemicals,Acetic Acid - 2.3 M,28.78,293,Stroustrup Manufacturing
+2872948,chemicals,Sodium Hydroxide - 3.7 M,39.3,42,Hejlsberg Industries
+2872949,chemicals,Acetic Acid - 14.5 M,20.34,138,Stroustrup Manufacturing
+2872950,chemicals,Acetic Acid - 2.1 M,23.3,18,K+R Industries
+2872951,chemicals,Hydrochloric Acid - 14.0 M,10.97,206,K+R Industries
+2872952,chemicals,Acetic Acid - 14.1 M,9.35,2,Newman Niceties
+2872953,chemicals,Sulfuric Acid - 12.2 M,23.52,120,K+R Industries
+2872954,chemicals,Sodium Hydroxide - 12.7 M,31.69,14,Hejlsberg Industries
+2872955,chemicals,Hydrochloric Acid - 8.9 M,24.91,161,Gosling Goods
+2872956,chemicals,Sodium Hydroxide - 1.2 M,16.07,82,Stroustrup Manufacturing
+2872957,chemicals,Sulfuric Acid - 11.6 M,28.37,378,Van Rossum Recycling
+2872958,chemicals,Sulfuric Acid - 2.4 M,10.7,224,Van Rossum Recycling
+2872959,chemicals,Hydrochloric Acid - 6.4 M,5.59,160,Newman Niceties
+2872960,chemicals,Sulfuric Acid - 5.0 M,20.3,72,Hejlsberg Industries
+2872961,chemicals,Acetic Acid - 9.4 M,33.48,63,K+R Industries
+2872962,chemicals,Hydrochloric Acid - 1.6 M,3.06,82,K+R Industries
+2872963,chemicals,Acetic Acid - 5.7 M,31.15,221,Newman Niceties
+2872964,chemicals,Potassium Chloride - 6.9 M,17.46,294,Stroustrup Manufacturing
+2872965,chemicals,Potassium Chloride - 5.2 M,26.02,263,Newman Niceties
+2872966,chemicals,Hydrochloric Acid - 0.2 M,15.02,201,Gosling Goods
+2872967,chemicals,Acetic Acid - 3.8 M,24.69,379,Newman Niceties
+2872968,chemicals,Acetic Acid - 3.1 M,31.99,271,K+R Industries
+2872969,chemicals,Sulfurous Acid - 14.3 M,35.09,146,Gosling Goods
+2872970,chemicals,Acetic Acid - 13.4 M,32.46,33,Van Rossum Recycling
+2872971,chemicals,Sulfurous Acid - 11.8 M,18.03,232,Stroustrup Manufacturing
+2872972,chemicals,Sulfurous Acid - 7.2 M,8.58,347,Hejlsberg Industries
+2872973,chemicals,Acetic Acid - 14.1 M,14.97,106,Gosling Goods
+2872974,chemicals,Sodium Hydroxide - 12.2 M,3.99,25,Gosling Goods
+2872975,chemicals,Sodium Hydroxide - 3.6 M,8.97,35,Stroustrup Manufacturing
+2872976,chemicals,Sulfuric Acid - 3.4 M,22.18,266,Stroustrup Manufacturing
+2872977,chemicals,Sulfurous Acid - 3.1 M,36.49,32,Gosling Goods
+2872978,chemicals,Sodium Hydroxide - 6.7 M,7.02,117,Hejlsberg Industries
+2872979,chemicals,Hydrochloric Acid - 2.2 M,24.88,227,Gosling Goods
+2872980,chemicals,Hydrochloric Acid - 5.0 M,18.66,118,Hejlsberg Industries
+2872981,chemicals,Acetic Acid - 2.8 M,12.39,86,Stroustrup Manufacturing
+2872982,chemicals,Hydrochloric Acid - 0.6 M,4.7,309,Gosling Goods
+2872983,chemicals,Acetic Acid - 5.9 M,35.39,222,Hejlsberg Industries
+2872984,chemicals,Hydrochloric Acid - 4.3 M,2.28,170,Hejlsberg Industries
+2872985,chemicals,Potassium Chloride - 6.6 M,18.54,8,Van Rossum Recycling
+2872986,chemicals,Sulfurous Acid - 2.7 M,20.44,181,Hejlsberg Industries
+2872987,chemicals,Acetic Acid - 7.6 M,13.21,22,Van Rossum Recycling
+2872988,chemicals,Potassium Chloride - 3.5 M,31.51,386,Hejlsberg Industries
+2872989,chemicals,Acetic Acid - 12.2 M,27.35,255,K+R Industries
+2872990,chemicals,Hydrochloric Acid - 11.1 M,24.01,149,Stroustrup Manufacturing
+2872991,chemicals,Acetic Acid - 2.0 M,17.84,333,Gosling Goods
+2872992,chemicals,Acetic Acid - 0.5 M,29.92,26,Newman Niceties
+2872993,chemicals,Hydrochloric Acid - 3.2 M,14.29,343,Van Rossum Recycling
+2872994,chemicals,Acetic Acid - 0.3 M,13.24,45,Hejlsberg Industries
+2872995,chemicals,Acetic Acid - 5.2 M,1.88,39,K+R Industries
+2872996,chemicals,Potassium Chloride - 6.0 M,10.79,37,Van Rossum Recycling
+2872997,chemicals,Sulfuric Acid - 0.2 M,36.6,115,K+R Industries
+2872998,chemicals,Potassium Chloride - 14.9 M,18.96,78,Newman Niceties
+2872999,chemicals,Sodium Hydroxide - 10.7 M,3.23,288,Gosling Goods
+2873000,chemicals,Sodium Hydroxide - 2.6 M,5.45,28,Newman Niceties
+2873001,chemicals,Potassium Chloride - 9.5 M,33.21,32,Hejlsberg Industries
+2873002,chemicals,Acetic Acid - 13.6 M,16.68,41,Stroustrup Manufacturing
+2873003,chemicals,Sodium Hydroxide - 13.5 M,2.95,196,Hejlsberg Industries
+2873004,chemicals,Acetic Acid - 1.0 M,23.91,387,Van Rossum Recycling
+2873005,chemicals,Sulfuric Acid - 14.9 M,21.6,71,Gosling Goods
+2873006,chemicals,Potassium Chloride - 7.7 M,19.37,393,Gosling Goods
+2873007,chemicals,Hydrochloric Acid - 10.4 M,34.18,246,Van Rossum Recycling
+2873008,chemicals,Sulfurous Acid - 8.4 M,9.68,127,Stroustrup Manufacturing
+2873009,chemicals,Sulfuric Acid - 9.6 M,27.85,297,Stroustrup Manufacturing
+2873010,chemicals,Acetic Acid - 14.9 M,27.38,185,Gosling Goods
+2873011,chemicals,Sulfurous Acid - 2.0 M,34.44,326,Newman Niceties
+2873012,chemicals,Sodium Hydroxide - 14.8 M,32.23,147,K+R Industries
+2873013,chemicals,Acetic Acid - 14.2 M,36.38,64,Newman Niceties
+2873014,chemicals,Hydrochloric Acid - 14.5 M,15.87,218,Van Rossum Recycling
+2873015,chemicals,Sodium Hydroxide - 11.2 M,16.32,148,Hejlsberg Industries
+2873016,chemicals,Sulfurous Acid - 3.6 M,2.35,288,Hejlsberg Industries
+2873017,chemicals,Sodium Hydroxide - 10.1 M,39.02,143,Hejlsberg Industries
+2873018,chemicals,Sodium Hydroxide - 13.0 M,28.58,321,Van Rossum Recycling
+2873019,chemicals,Acetic Acid - 8.6 M,31.08,344,Stroustrup Manufacturing
+2873020,chemicals,Sulfurous Acid - 12.6 M,26.93,247,Stroustrup Manufacturing
+2873021,chemicals,Sodium Hydroxide - 4.3 M,39.67,235,Hejlsberg Industries
+2873022,chemicals,Potassium Chloride - 3.4 M,15.96,347,Van Rossum Recycling
+2873023,chemicals,Sulfurous Acid - 8.6 M,26.17,60,Van Rossum Recycling
+2873024,chemicals,Acetic Acid - 11.3 M,31.24,175,Newman Niceties
+2873025,chemicals,Sodium Hydroxide - 0.9 M,34.36,276,Stroustrup Manufacturing
+2873026,chemicals,Sulfurous Acid - 7.2 M,29.63,393,Stroustrup Manufacturing
+2873027,chemicals,Potassium Chloride - 0.3 M,25.26,44,Van Rossum Recycling
+2873028,chemicals,Acetic Acid - 1.4 M,37.97,218,Hejlsberg Industries
+2873029,chemicals,Hydrochloric Acid - 3.1 M,5.32,196,Stroustrup Manufacturing
+2870059,electronics,PMOS Transistor,35.0,261,Van Rossum Recycling
+2873030,chemicals,Hydrochloric Acid - 0.1 M,33.96,340,Stroustrup Manufacturing
+2873031,chemicals,Potassium Chloride - 7.2 M,25.27,80,Gosling Goods
+2873032,chemicals,Hydrochloric Acid - 14.1 M,8.81,42,Stroustrup Manufacturing
+2873033,chemicals,Potassium Chloride - 11.2 M,29.01,159,Stroustrup Manufacturing
+2873034,chemicals,Sulfurous Acid - 7.7 M,26.81,343,Newman Niceties
+2873035,chemicals,Hydrochloric Acid - 5.6 M,29.13,49,Stroustrup Manufacturing
+2873036,chemicals,Hydrochloric Acid - 13.7 M,9.82,94,Newman Niceties
+2873037,chemicals,Sulfurous Acid - 12.3 M,32.44,356,Hejlsberg Industries
+2873038,chemicals,Sulfuric Acid - 3.3 M,16.11,199,Van Rossum Recycling
+2873039,chemicals,Hydrochloric Acid - 10.7 M,11.65,62,Hejlsberg Industries
+2873040,chemicals,Hydrochloric Acid - 10.5 M,13.49,140,Newman Niceties
+2873041,chemicals,Potassium Chloride - 4.1 M,5.26,270,K+R Industries
+2873042,chemicals,Acetic Acid - 7.0 M,15.36,272,Gosling Goods
+2873043,chemicals,Sulfurous Acid - 5.4 M,32.64,224,Newman Niceties
+2873044,chemicals,Sulfuric Acid - 6.0 M,28.63,91,Stroustrup Manufacturing
+2873045,chemicals,Sulfuric Acid - 3.7 M,13.11,180,Stroustrup Manufacturing
+2873046,chemicals,Hydrochloric Acid - 14.5 M,5.02,248,K+R Industries
+2873047,chemicals,Acetic Acid - 4.2 M,36.78,96,Hejlsberg Industries
+2873048,chemicals,Sulfurous Acid - 11.8 M,28.7,74,Gosling Goods
+2873049,chemicals,Sodium Hydroxide - 2.2 M,21.4,181,Gosling Goods
+2873050,chemicals,Sodium Hydroxide - 12.3 M,11.72,102,Van Rossum Recycling
+2873051,chemicals,Sulfurous Acid - 11.9 M,9.46,79,Newman Niceties
+2870060,electronics,8-gate OR Gate,37.65,145,Stroustrup Manufacturing
+2873052,chemicals,Hydrochloric Acid - 8.1 M,24.4,145,Newman Niceties
+2873053,chemicals,Sodium Hydroxide - 14.6 M,13.31,223,Newman Niceties
+2873054,chemicals,Potassium Chloride - 5.6 M,33.22,18,Van Rossum Recycling
+2873055,chemicals,Sodium Hydroxide - 8.5 M,35.21,136,K+R Industries
+2873056,chemicals,Sodium Hydroxide - 3.7 M,28.88,381,K+R Industries
+2873057,chemicals,Sulfurous Acid - 6.9 M,5.72,228,Stroustrup Manufacturing
+2873058,chemicals,Sulfuric Acid - 7.1 M,6.4,22,Gosling Goods
+2873059,chemicals,Sodium Hydroxide - 4.8 M,36.67,200,Newman Niceties
+2870061,electronics,3-gate XOR Gate,36.79,91,Stroustrup Manufacturing
+2870062,electronics,8-gate XOR Gate,30.22,77,Hejlsberg Industries
+2870063,electronics,8-gate NAND Gate,7.81,138,Newman Niceties
+2873060,chemicals,Hydrochloric Acid - 1.6 M,35.61,17,Hejlsberg Industries
+2873061,chemicals,Acetic Acid - 6.6 M,9.76,324,Stroustrup Manufacturing
+2873062,chemicals,Potassium Chloride - 14.6 M,33.79,364,K+R Industries
+2873063,chemicals,Hydrochloric Acid - 3.0 M,39.25,360,Newman Niceties
+2873064,chemicals,Hydrochloric Acid - 11.0 M,12.34,169,Van Rossum Recycling
+2873065,chemicals,Potassium Chloride - 13.6 M,1.51,53,Hejlsberg Industries
+2873066,chemicals,Hydrochloric Acid - 12.4 M,1.29,252,Van Rossum Recycling
+2873067,chemicals,Hydrochloric Acid - 2.3 M,5.6,389,Newman Niceties
+2873068,chemicals,Sulfurous Acid - 1.7 M,24.71,236,Hejlsberg Industries
+2870064,electronics,5-gate XNOR Gate,15.34,243,K+R Industries
+2873069,chemicals,Sulfurous Acid - 14.7 M,38.27,119,Hejlsberg Industries
+2873070,chemicals,Sulfuric Acid - 11.1 M,29.38,395,Gosling Goods
+2873071,chemicals,Hydrochloric Acid - 12.4 M,32.35,120,Stroustrup Manufacturing
+2873072,chemicals,Acetic Acid - 12.3 M,0.08,112,Stroustrup Manufacturing
+2873073,chemicals,Sulfurous Acid - 11.4 M,30.74,4,Van Rossum Recycling
+2873074,chemicals,Hydrochloric Acid - 7.6 M,14.87,265,Stroustrup Manufacturing
+2873075,chemicals,Sulfurous Acid - 2.0 M,7.38,274,K+R Industries
+2873076,chemicals,Sulfuric Acid - 13.1 M,2.11,199,Newman Niceties
+2873077,chemicals,Sulfuric Acid - 7.3 M,35.5,173,Hejlsberg Industries
+2873078,chemicals,Sulfuric Acid - 7.3 M,8.35,338,Van Rossum Recycling
+2870065,electronics,2-gate NOT Gate,15.23,110,Van Rossum Recycling
+2873079,chemicals,Potassium Chloride - 4.0 M,7.34,310,Gosling Goods
+2873080,chemicals,Sodium Hydroxide - 11.1 M,23.1,63,Newman Niceties
+2873081,chemicals,Sodium Hydroxide - 5.8 M,3.77,36,Hejlsberg Industries
+2873082,chemicals,Sulfurous Acid - 10.5 M,11.97,95,Hejlsberg Industries
+2873083,chemicals,Acetic Acid - 6.4 M,0.94,214,Gosling Goods
+2873084,chemicals,Sulfurous Acid - 1.3 M,10.39,276,Van Rossum Recycling
+2873085,chemicals,Sulfurous Acid - 1.7 M,8.16,181,Van Rossum Recycling
+2873086,chemicals,Potassium Chloride - 13.5 M,18.94,207,Hejlsberg Industries
+2870066,electronics,PMOS Transistor,37.35,140,Newman Niceties
+2873087,chemicals,Hydrochloric Acid - 2.5 M,8.69,95,Gosling Goods
+2873088,chemicals,Potassium Chloride - 14.2 M,3.99,140,Newman Niceties
+2873089,chemicals,Hydrochloric Acid - 8.8 M,36.16,333,Gosling Goods
+2873090,chemicals,Sodium Hydroxide - 8.1 M,10.39,50,Newman Niceties
+2873091,chemicals,Sulfuric Acid - 10.7 M,35.31,183,K+R Industries
+2873092,chemicals,Sulfuric Acid - 11.0 M,18.82,277,Hejlsberg Industries
+2873093,chemicals,Sodium Hydroxide - 1.1 M,36.23,394,Gosling Goods
+2873094,chemicals,Potassium Chloride - 3.7 M,1.71,317,Hejlsberg Industries
+2873095,chemicals,Sulfurous Acid - 12.0 M,29.04,147,Stroustrup Manufacturing
+2873096,chemicals,Sulfuric Acid - 4.8 M,7.1,84,Van Rossum Recycling
+2873097,chemicals,Sulfurous Acid - 14.0 M,6.49,376,Stroustrup Manufacturing
+2873098,chemicals,Acetic Acid - 4.5 M,12.33,340,K+R Industries
+2873099,chemicals,Sulfuric Acid - 1.4 M,30.35,28,K+R Industries
+2873100,chemicals,Hydrochloric Acid - 7.8 M,21.56,258,K+R Industries
+2870067,electronics,2-gate XOR Gate,14.12,157,Gosling Goods

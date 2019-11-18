@@ -1,0 +1,12 @@
+id,type,item name,price,quantity,vendor
+2830001,electronics,CMOS Transistor,0.60,200,K+R Industries
+2830002,electronics,PMOS Trasistor,0.70,130,K+R Industries
+2830101,tools,Hammer,5.23,40,Stroustrup Manufacturing
+2830102,tools,Hammer-long,6.30,53,Van Rossum Hardware
+2830103,tools,Screwdriver-phillips,4.59,20,Van Rossum Hardware
+2830201,food,Coffee-standard,2.99,30,Gosling Perishables
+2830202,food,Coffee-black,3.99,32,Gosling Perishables
+2830203,food,Coffee concentrate,1.99,46,Gossing Perishables
+2830003,IC,IC Integrated 4-gate AND,0.99,50,K+R Industries
+2830004,IC,IC Integrated 4-gate OR,0.99,22,K+R Industries
+2830204,chemicals,Acetic Acid Concentrate 14.0M, 1.49,40,Newman Chemicals

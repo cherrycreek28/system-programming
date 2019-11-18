@@ -1,0 +1,7 @@
+Argument[6]: 3@3
+Argument[5]: dwe
+Argument[4]: 132
+Argument[3]: c
+Argument[2]: this is a big arg
+Argument[1]: a
+Argument[0]: ./bin/hw0.out
