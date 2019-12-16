@@ -1,0 +1,7 @@
+test:
+-Nothing has been deposited. Retrieve client should exit immediately.
+-Try depositing. 
+-Retrieve client can get the message. 
+-Deposit client*2
+-Retrieve client can get the message. 
+-Try depositing client #>255. Failed.  

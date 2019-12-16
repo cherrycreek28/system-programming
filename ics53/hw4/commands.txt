@@ -1,0 +1,2 @@
+echo "Mario likes pipes" | grep a
+exit

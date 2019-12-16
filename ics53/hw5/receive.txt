@@ -1,0 +1,13 @@
+[1;34mINFO: ./client/client -h 10.42.23.92 -p 1228 -i 3 -r[0mSocket successfully created
+[1;34mINFO: [0mConnecting to 10.42.23.92 on port 1228
+[1;32mSUCCESS: [0mConnection established with the server
+[1;34mINFO: [0mRecieved message of length 3 from Client 3
+yes
+[1;34mINFO: [0mRecieved message of length 4 from Client 3
+okay
+[1;34mINFO: [0mRecieved message of length 20 from Client 3
+have a meeting today
+[1;34mINFO: [0mRecieved message of length 24 from Client 3
+some random: uewroiuewfh
+[1;34mINFO: [0mRecieved message of length 5 from Client 3
+hello
